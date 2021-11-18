@@ -1,0 +1,20 @@
+{
+    "BookingStoreErrors_invalidFullName": "Full name is invalid",
+    "BookingStoreErrors_invalidEmail": "Email is invalid",
+    "BookingStoreErrors_invalidPhoneNumber": "Phone Number is invalid",
+    "BookingStoreErrors_bookingError": "Please select valid move-in and move-out date!",
+    "BookingStoreErrors_paymentError": "An error occurred while processing your payment, please try later!",
+
+    "SiteBookingStatus_ACTIVE": "Active",
+    "SiteBookingStatus_ARCHIVED": "Archived",
+    "SiteBookingStatus_DRAFT": "Draft",
+    "SiteBookingStatus_IN_ACTIVE": "In Active",
+    "SiteBookingStatus_READY_TO_REVIEW": "Ready to Review",
+    "SiteBookingStatus_REJECTED": "Rejected",
+    "SiteBookingStatus_INACTIVE": "Inactive",
+    "SiteBookingStatus_CANCELLED": "Cancelled",
+    "SiteBookingStatus_COMPLETED": "Completed",
+    "SiteBookingStatus_CONFIRMED": "Confirmed",
+    "SiteBookingStatus_RESERVED": "Reserved",
+    "SiteBookingStatus_TERMINATED": "Terminated"
+}

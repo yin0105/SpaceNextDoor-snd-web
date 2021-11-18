@@ -1,0 +1,143 @@
+{
+    "Info_primaryTypography": "Save and Exit",
+
+    "Buttons_primaryTypography": "BACK",
+    "Buttons_box": "NEXT",
+
+    "FinishListing_typography": "Finish your listing to start earning",
+    "FinishListing_grey3Typography": "You can always edit your listing after you edit it.",
+    "FinishListing_primaryButton": "Publish",
+    "FinishListing_linkTitle1": "Facilities",
+    "FinishListing_linkTitle2": "Location",
+    "FinishListing_linkTitle3": "Photos",
+    "FinishListing_linkTitle4": "Description and Title",
+    "FinishListing_linkTitle5": "Measurements",
+
+    "FormAddPhotos_grey3Typography": "Add some photos of your storage",
+    "FormAddPhotos_whiteTypography": "Upload Photos",
+
+    "FormCreateTitle_typography": "Create a title for your storage",
+    "FormCreateTitle_placeholder": "Cool Singapore Storage",
+    "FormCreateTitle_grey3Typography": "Title is required!",
+
+    "FormDescribePlace_typography": "Describe your place to potential clients",
+    "FormDescribePlace_grey3Typography": "Description is required!",
+
+    "FloorSelect_grey3Typography": "What floor is the space on?",
+    "FloorSelect_grey2Typography": "Select floor",
+
+    "PropertyTypeSelect_grey3Typography": "Choose a property type",
+    "PropertyTypeSelect_typography": "Spaces come in all shapes and sizes, so just select whichever describes yours best.",
+    "PropertyTypeSelect_grey2Typography": "Basement",
+    "PropertyTypeSelect_containerGrey2Typography": "Select one",
+    "PropertyTypeSelect_containerMenuItem": "Select one",
+
+    "Radios_label1": "I’m hosting as a registered business",
+    "Radios_label2": "I’m hosting as an individual or sole owner",
+
+    "FormKindOfPlace_grey3Typography1": "What kind of place are you listing",
+    "FormKindOfPlace_grey3Typography2": "Are you listing on Space Next Door as part of a company?",
+
+    "OAuthButtons_typography1": "Sign in with Google",
+    "OAuthButtons_typography2": "Sign in with Facebook",
+
+    "FormLogo_typography": "Add your photo or your company logo",
+    "FormLogo_whiteTypography": "change photo",
+    "FormLogo_grey3Typography": "Take your picture from Google or Facebook",
+
+    "AddSizeOption_grey3Typography": "Do you want to add another Unit of a different size?",
+    "AddSizeOption_primaryTypography": "+ Add Size Option",
+
+    "Checkboxes_typography": "Check what this Unit has:",
+    "Checkboxes_customCheckbox1": "Private CCTV",
+    "Checkboxes_customCheckbox2": "AC",
+    "Checkboxes_customCheckbox3": "Smart Lock",
+
+    "EditingSizeOption2_error": "Name cannot be empty",
+    "EditingSizeOption2_typography": "Editing Size Option",
+    "EditingSizeOption2_placeholder": "Option name or identifier",
+    "EditingSizeOption2_whiteTypography": "save",
+
+    "EditingCheckboxes_typography": "Check what this Unit has:",
+
+    "EditingInputs_propertyName1": "How many Units of this size do you have?",
+    "EditingInputs_propertyUnit1": "Unit",
+    "EditingInputs_propertyName2": "What is the monthly price you set for this unit?",
+
+    "EditingSizes_propertyName1": "Width",
+    "EditingSizes_propertyName2": "Depth",
+    "EditingSizes_propertyName3": "Height",
+    "EditingSizes_grey3Typography": "Total Area",
+
+    "Inputs_grey3Typography1": "How many Units of this size do you have?",
+    "Inputs_typography": "Unit",
+    "Inputs_grey3Typography2": "What is the monthly price you set for this unit?",
+
+    "MiniOptions_typography": "Size options",
+    "MiniOptions_grey3Typography": "Size options are useful for when you have storage or parking units that are pretty much the same, but differ in size and price. Use this section to edit the measurements, quantity and names of your size options.",
+
+    "Actions_grey2Typography": "Edit",
+
+    "Size_grey2Typography": "Size Unit",
+
+    "Title_typography": "Unit",
+
+    "OneOptionCheckboxes_typography": "Check what this Unit has:",
+
+    "OneSize_error": "Your space looks too big, contact our customer service for support",
+
+    "OneOption_typography": "Measurements of your space",
+
+    "OneOptionSizes_propertyName1": "Width",
+    "OneOptionSizes_propertyName2": "Depth",
+    "OneOptionSizes_propertyName3": "Height",
+    "OneOptionSizes_grey3Typography": "Total Area",
+
+    "Sizes_grey3Typography1": "Width",
+    "Sizes_grey3Typography2": "Depth",
+    "Sizes_grey3Typography3": "Height",
+    "Sizes_grey3Typography4": "Total Area",
+
+    "FormPhone_grey3Typography": "Add your mobile number",
+
+    "FormAddNumber_typography": "Please add your phone number and we will send you a SMS to verify it.",
+    "FormAddNumber_primaryTypography": "Verify",
+    "FormAddNumber_grey3Typography": "Username can either be phone number or email!",
+    "FormAddNumber_grey3Typography1": "Please check your mobile number and re-enter.",
+
+    "FormAddPINInfo_box": "Edit",
+    "FormAddPINInfo_grey3Typography": "Add your PIN code",
+    "FormAddPINInfo_typographyP1": "We have just sent you a PIN code to your phone number",
+    "FormAddPINInfo_typographyP2": ". It can take up to a minute.",
+
+    "Inputs_body2": "Please add your phone number and we will send you a SMS to verify it.",
+    "Inputs_grey2Typography": "Didn't you receive the message?, please",
+    "Inputs_primaryTypography": "send it again.",
+
+    "FormNumberAdded_typography": "Contact phone number added",
+    "FormNumberAdded_primaryTypography": "Verified",
+
+    "FormPlaceLocated_typography": "Where's your place located?",
+    "FormPlaceLocated_grey3Typography1": "Use current location",
+    "FormPlaceLocated_grey2Typography1": "We can't detect your location. Try again or enter your address.",
+    "FormPlaceLocated_grey3Typography2": "Country/Region",
+    "FormPlaceLocated_label1": "Country",
+    "FormPlaceLocated_grey3Typography3": "City",
+    "FormPlaceLocated_label2": "City",
+    "FormPlaceLocated_grey3Typography4": "District",
+    "FormPlaceLocated_label3": "District",
+    "FormPlaceLocated_grey3Typography5": "Street",
+    "FormPlaceLocated_placeholder": "Search Location",
+    "FormPlaceLocated_menuItem": "Loading",
+    "FormPlaceLocated_grey2Typography2": "e.g. 4190 Ang Mo Kio Avenue 6",
+    "FormPlaceLocated_grey3Typography6": "Flat (optional)",
+    "FormPlaceLocated_grey2Typography3": "e.g. # 13-37 Mandalay Towers",
+    "FormPlaceLocated_grey3Typography7": "Postcode",
+
+    "FormRightPlace_typography": "Is the pin in the right place?",
+
+    "FormSiteFeatures_typography": "What features does the site have?",
+    "FormSiteFeatures_grey3Typography": "Only select the features that Guests can use or benefit from.",
+
+    "FormSpace_defaultSpaceName": "My storage"
+}

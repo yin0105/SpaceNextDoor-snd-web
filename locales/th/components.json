@@ -1,0 +1,11 @@
+{
+    "Header_menuLinkName1":"รายการ",
+    "Header_menuLinkName2":"การจอง",
+    "Header_button": "สร้างรายการ",
+
+    "AccountMenu_linkName1": "บัญชีผู้ใช้",
+    "AccountMenu_linkName2": "เปลี่ยนเป็นผู้เยี่ยมชม",
+    "AccountMenu_linkName3": "ออกจากระบบ",
+    "AccountMenu_linkName4": "ความช่วยเหลือ",
+    "AccountMenu_hello": "สวัสดี"
+}

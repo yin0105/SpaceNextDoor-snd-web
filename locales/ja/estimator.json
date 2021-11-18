@@ -1,0 +1,57 @@
+{
+
+    "Categories_listItem1": "寝室",
+    "Categories_listItem2": "居間",
+    "Categories_listItem3": "キッチン",
+    "Categories_listItem4": "家電",
+    "Categories_listItem5": "室外",
+    "Categories_listItem6": "スポーツ",
+    "Categories_listItem7": "その他",
+    "Categories_listItem8": "オフィス",    
+
+    "FindStorage_typography1": "＿＿から",
+    "FindStorage_typography2": "月",
+    "FindStorage_typography3": "収納スペースを探す",    
+
+    "Header_typography1": "必要面積の概算",
+    "Header_typography2": "収納予定の物を選択してください",
+    "Header_typography3": "必要面積の概算",    
+
+    "AddCustom_placeholder": "その他の物をを加える",    
+
+    "AddCustomForm_typography1": "その他の物をを加える",
+    "AddCustomForm_typography2": "幅",
+    "AddCustomForm_placeholder": "品目名",
+    "AddCustomForm_typography3": "高さ",
+    "AddCustomForm_typography4": "奥行",
+    "AddCustomForm_inputLabel": "積み重ね可能",
+    "AddCustomForm_secondaryButton": "品目を加える",
+    "AddCustomForm_required": "必項",    
+
+    "List_typography1": "品目一覧",
+    "List_link": "全てをクリアにする",
+    "List_typography2": "必要面積を概算する",
+    "List_typography3": "2.5 ㎡",    
+
+    "RecommendedStorage_typography1": "おすすめプラン",
+    "RecommendedStorage_typography2": "トランクルーム",
+    "RecommendedStorage_typography3": "sq ft",
+    "RecommendedStorage_box": "自分で管理収納を管理できる。毎日24時間アクセス可能。",    
+
+    "SearchInput_placeholder": "検索項目",
+
+    "Items_list1": "ベッドフレーム - キングサイズ",
+    "Items_list2": "ベッドフレーム - クイーンサイズ",
+    "Items_list3": "ベッドフレーム - シングルサイズ",
+    "Items_list4": "ベッドサイド テーブル",
+    "Items_list5": "2段ベッド",
+    "Items_list6": "2段タンス",
+    "Items_list7": "3段タンス",
+    "Items_list8": "6段タンス",
+    "Items_list9": "化粧台",
+    "Items_list10": "マットレス - キングサイズ",
+    "Items_list11": "マットレス - クイーンサイズ",
+    "Items_list12": "マットレス - シングルサイズ",
+    "Items_list13": "姿見鏡",
+    "Items_list14": "洋服ダンス"
+}

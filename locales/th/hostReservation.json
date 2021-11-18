@@ -1,0 +1,62 @@
+{
+    "DesktopTabs_placeholder": "ค้นหาการจอง...",
+    "DesktopTabs_all": "ทั้งหมด",
+    "DesktopTabs_confirmed": "ยืนยัน",
+    "DesktopTabs_completed": "เสร็จสมบูรณ์",
+    "DesktopTabs_cancelled": "ยกเลิก",
+
+    "Details_listItemsName1": "รวมเป็นเงิน",
+    "Details_listItemsName2": "บริการรับสิ่งของ",
+    "Details_listItemsName3": "ประกันภัย",
+    "Details_listItemsName4": "เงินมัดจำ",
+    "Details_listItemsName5": "ส่วนลด",
+    "Details_listItemsName6": "รวม",
+    "Details_itemDetailName1": "ที่อยู่",
+    "Details_itemDetailName2": "ชื่อยูนิต",
+    "Details_itemDetailName3": "ขนาดยูนิต",
+    "Details_itemDetailName4": "อ้างอิง",
+    "Details_itemDetailName5": "จาก",
+    "Details_itemDetailName6": "ไปที่",
+    "Details_itemDetailName7": "ลูกค้า",
+    "Details_itemDetailName8": "จำนวนเงินรวมทั้งสิ้น",
+
+    "MobileVersion_placeholder": "ค้นหาการจอง...",
+
+    "Modal_headerTitle": "ยกเลิกการจอง",
+    "Modal_subtitle": "คุณยืนยันที่จะยกเลิกการจองนี้หรือไม่",
+    "Modal_message1": "คุณจะไม่สามารถกู้คืน",
+    "Modal_message2": "ข้อมูลได้",
+    "Modal_cancel": "ยกเลิก",
+    "Modal_confirm": "ยืนยัน",
+
+
+    "Table_noReservation": "ไม่พบการจอง!",
+    "Table_noReservationMsg": "คุณยังไม่ได้ทำการจองใด ๆ โปรดระบุพื้นที่ของคุณเพื่อเริ่มสร้างรายได้",
+    "Table_header1": "รหัสการจองล่วงหน้า",
+    "Table_header2": "สถานะ",
+    "Table_header3": "ลูกค้า",
+    "Table_header4": "สถานที่จัดเก็บ",
+    "Table_header5": "ยูนิต",
+    "Table_header6": "ย้ายเข้า",
+    "Table_header7": "ย้ายออก",
+
+    "ReservationDetails_title1": "ผู้เยี่ยมชม",
+    "ReservationDetails_title2": "การให้เช่า",
+    "ReservationDetails_subtitle1": "รายละเอียดการจองล่วงหน้า",
+    "ReservationDetails_subtitle2": "รายละเอียดการจอง",
+    "ReservationDetails_itemsTitle1": "จัดการการจอง",
+    "ReservationDetails_itemsTitle2": "รายละเอียดการจอง",
+    "ReservationDetails_itemsGuestTitle1": "การจองล่วงหน้า",
+    "ReservationDetails_itemsGuestTitle2": "รายละเอียดการจองล่วงหน้า",
+
+    "Reservations_title1": "ผู้เยี่ยมชม",
+    "Reservations_title2": "การให้เช่า",
+    "Reservations_subtitle": "จัดการ",
+    "Reservations_subtitle1": "การจองล่วงหน้า",
+    "Reservations_subtitle2": "การจอง",
+
+    "ComponentsSelect_all": "ทั้งหมด",
+    "ComponentsSelect_confirmed": "ยืนยัน",
+    "ComponentsSelect_completed": "เสร็จสมบูรณ์",
+    "ComponentsSelect_cancelled": "ยกเลิก"
+}

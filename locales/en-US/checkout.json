@@ -1,0 +1,222 @@
+{
+    "BuildingDetails_span":"Monthly Ongoing",
+    "BuildingDetails_typography1": "MOVE IN",
+    "BuildingDetails_typography2": "MOVE OUT",
+    "BuildingDetails_typography3": "Collection details",
+    "BuildingDetails_typography4": "Pick-up time",
+    "BuildingDetails_typography5": "Storage units",
+    "BuildingDetails_typography6": "Insurance Plan",
+    "BuildingDetails_typography7": "Up to",
+    "BuildingDetails_typography8": "per month (Insurance cover)",
+    "BuildingDetails_typography9": "Booking ID",
+    "BuildingDetails_to": "To",
+    "BuildingDetails_from": "From",
+    "BuildingDetails_weeks": "Weeks",
+    "BuildingDetails_guest": "Guest",
+    "BuildingDetails_autoRenewal": "Auto-renewal",
+    "BuildingDetails_perWeek": "per week",
+    "BuildingDetails_fullAddress": "Full address",
+    "BuildingDetails_review": "Review",
+    "BuildingDetails_unitDetails": "Unit details",
+    "BuildingDetails_paymentDetail": "Payment detail",
+    "BuildingDetails_paymentMethod": "Payment method",
+    "BuildingDetails_cardType": "Card type",
+    "BuildingDetails_cardNumber": "Card number",
+    "BuildingDetails_seeInvoice": "See Tax Invoice",
+    "BuildingDetails_bookAgain": "Book again",
+    "BuildingDetails_paymentHistory": "Payment history",
+    "BuildingDetails_sizeUnits": "Size units",
+    "BuildingDetails_subtotal": "Subtotal",
+    "BuildingDetails_pickUpService": "Pick up service",
+    "BuildingDetails_insurance": "Insurance",
+    "BuildingDetails_total": "Total",
+    "BuildingDetails_unitSize": "Unit size",
+    "BuildingDetails_unitName": "Unit name",
+    "BuildingDetails_unitNumber": "Unit number",
+    "BuildingDetails_sizeWithAC": "{{size}} size with AC",
+    "BuildingDetails_unassigned": "Unassigned",
+    "BuildingDetails_bookingStatus": "Paid",
+    "BuildingDetails_insuranceCover": "Insurance cover",
+    "BuildingDetails_essentialUpTo": "Essential Up to",
+
+    "Header_typography1": "Your booking is confirmed!",
+    "Header_typography2": "Booking ID",
+    
+    "PaymentSummary_typography1": "Payment Summary",
+    "PaymentSummary_bookingStatus": "Paid",
+    "PaymentSummary_typography2": "Subtotal",
+    "PaymentSummary_typography3": "Promotion",
+    "PaymentSummary_typography4": "Deposit",
+    "PaymentSummary_typography5": "Additional Services",
+    "PaymentSummary_typography6": "Insurance",
+    "PaymentSummary_typography7": "Total",
+    "PaymentSummary_typography8": "(Prices showed monthly)",
+    "PaymentSummary_typography9": "Payment method",
+    "PaymentSummary_typography10SG": "See Tax Invoice",
+    "PaymentSummary_typography10": "See Receipt",
+    "PaymentSummary_typography11": "Total Tax",
+    
+    "ConfirmButton_button": "confirm and pay",
+    
+    "Buttons_continue": "continue",
+    "Buttons_acceptAndPay": "Accept And Pay",
+
+    "AutoRenewal_grey3Typography1": "Auto-renewal",
+    "AutoRenewal_grey3Typography2": "Your subscription will be on",
+    
+    "BodyText_grey3Typography": "Do you confirm to Turn off Auto-renewal?",
+    "BodyText_grey2Typography": "Please choose your move out date to see your last subscription.",
+    
+    "AutoRenewalButtons_grey2Typography": "Cancel",
+    "AutoRenewalButtons_whiteTypography": "confirm",
+    
+    "HeaderText_grey3Typography": "Turn Off Auto-renewal",
+    
+    "ScheduleTime_grey3Typography": "Schedule Time",
+    
+    "Dates_title1": "MOVE IN",
+    "Dates_desc1": "Please choose move in date",
+    "Dates_title2": "MOVE OUT",
+    "Dates_desc2": "Please choose move out date",
+    "Dates_grey2Typography": "Monthly Ongoing",
+   
+    "DatesModal_grey2Typography": "Clear Date",
+    "DatesModal_whiteTypography": "confirm",
+    "DatesModal_availability": "Your selected unit is only available until",
+    
+    "YourDetail_grey3Typography": "Your Detail",
+    
+    "PersonalInfoCard_title1": "FULL NAME",
+    "PersonalInfoCard_label1": "Full name",
+    "PersonalInfoCard_title2": "EMAIL",
+    "PersonalInfoCard_label2": "Email address",
+    "PersonalInfoCard_title3": "PHONE NUMBER",
+    
+    "FormBookingDetails_progressLayoutTitle": "Booking details",
+    "FormBookingDetails_progressLayoutBtnText": "reserve this unit",
+    "FormBookingDetails_dataTitle1": "Move in",
+    "FormBookingDetails_dataTitle2": "Move out",
+    "FormBookingDetails_dataTitle3": "Auto-renewal",
+    "FormBookingDetails_dataTitle4": "Full name",
+    "FormBookingDetails_dataTitle5": "Email",
+    "FormBookingDetails_dataTitle6": "Phone number",
+    "FormBookingDetails_errorCreateBooking": "We can't process your booking at the moment. Please try again later.",
+    
+    "FormInsurancePlan_progressLayoutTitle": "Insurance Plan",
+    "FormInsurancePlan_titleP1": "Essential Up to {{currencySign}}{{coveredAmount}} {{currencySign}}{{pricePerDay}} per day (Insurance cover)",
+    "FormInsurancePlan_titleP2": "No Insurance",
+    
+    "InsurancePlanHeader_grey2Typography": "Monthly insurance to protect storage contents against losses from fire, lightning, and/or extraneous perils.",
+    
+    "OneVariant_primaryTypography": "Most popular",
+    "OneVariant_grey3Typography1": "Up to",
+    "OneVariant_grey2Typography1": "Insurance cover",
+    "OneVariant_grey2Typography2": "per month",
+    "OneVariant_grey3Typography2": "I am interested, But please remind me later",
+    
+    "FormPaymentMethod_paymentError": "ere was an error loading payment related libraries!",
+    "FormPaymentMethod_title": "Payment Method",
+    "FormPaymentMethod_btnText": "Accept And Pay",
+    
+    "CheckBox_label": "Make billing address the same as the collection address",
+    
+    "FormPickUpServices_title1": "Service",
+    "FormPickUpServices_title2": "Collection Address",
+    "FormPickUpServices_title3": "Pick-up-time",
+    "FormPickUpServices_pickupDetails": "Please enter your pickup address!",
+    "FormPickUpServices_title4": "Pick up services",
+    "FormPickUpServices_subtitle4": "Do you need pick-up service?",
+    "FormPickUpServices_title5": "and moving service",
+    "FormPickUpServices_selfPickup": "Self Pickup",
+
+    "ChooseYourService_serviceTitle1": "Yes, I need",
+    "ChooseYourService_serviceTitle2": "No, I will do it myself",
+    "ChooseYourService_serviceDesc": "Drop off your items at your Storage facility.",
+    
+    "Service_typography1": "MOST CONVENIENT",
+    "Service_typography2": "Starting at",
+    "Service_typography3": "View storage on map",
+    "Service_typography4": "Recommended",
+
+    "YourCollectionDetail_grey3Typography1": "Your Collection Detail",
+    "YourCollectionDetail_grey3Typography2": "ADDRESS",
+    "YourCollectionDetail_placeholder": "Enter your address",
+    "YourCollectionDetail_grey3Typography3": "PICK-UP TIME",
+    "YourCollectionDetail_menuItem": "Loading...",
+    "YourCollectionDetail_grey3Typography4": "Yes, I want help to move my stuff to the storage",
+    "YourCollectionDetail_grey3Typography5": "No, I will move the stuff by myself",
+    "YourCollectionDetail_grey3TypographyTitle": "Need help moving your stuff?",
+    "YourCollectionDetail_grey3TypographySubtitle": "Get professional movers to move the stuff from your door to your unit.",
+
+    "ButtonConfirm_whiteTypography": "confirm",
+    "ButtonConfirm_alert": "Place select a place to continue!",
+    
+    "InputCurrentLocation_placeholder": "Current location",
+    "InputCurrentLocation_menuItem": "Loading...",
+    
+    "DesktopVersion_grey3Typography": "Select your location",
+    
+    "MobileVersion_text": "Select your location",
+
+    "ProgressLayout_grey2Typography1": "Your unit will be reserved for 15 minutes. Please complete payment.",
+    "ProgressLayout_grey2Typography2": "Make sure you apply promotions before securing your booking.",
+    "ProgressLayout_noServices": "No, i don’t need service",
+
+    "SiteAgreement_typography1": "By clicking accept and pay button, you agree to the",
+    "SiteAgreement_typography2": "Self storage license agreement",
+    
+    "PriceInfo_title1": "Subtotal (Monthly)",
+    "PriceInfo_title2": "Deposit",
+    "PriceInfo_title3": "Promotion",
+    "PriceInfo_title4": "Promo code",
+    "PriceInfo_title5": "Additional Services",
+    "PriceInfo_title6": "Insurance (Monthly)",
+    
+    "Total_grey3Typography": "Total",
+    
+    "Promotions_grey3Typography": "Promotions",
+    "Promotions_error": "The promotion cannot be applied to this booking because it does not meeting the minimum criteria",
+    "Promotions_label": "No, I don't need promotion",
+    "Promotions_promoError": "Promo code isn't valid or expired",
+    
+    "PromoCode_grey3Typography": "Have a promo code?",
+    "PromoCode_placeholder": "Promo Code",
+    "PromoCode_whiteTypography1": "APPLY",
+    "PromoCode_whiteTypography2": "REMOVE",
+
+    "SessionExpiredPopup_typography": "Session timeout",
+    "SessionExpiredPopup_grey3Typography": "Your booking session is expired.",
+    "SessionExpiredPopup_grey2Typography": "You didn’t complete payment on time. Please try again to continue your booking.",
+
+    "SessionExpiredButtons_whiteTypography": "try again",
+
+    "AffiliatePopup_typography": "Sorry, this unit cannot book on our website",
+    "AffiliatePopup_grey3Typography": "Your booking is not allow to checkout here.",
+    "AffiliatePopup_grey2Typography": "We will redirected you to the website that you will able to book this unit. Please click the button below.",
+    "AffiliatePopup_Mobilegrey2Typography": "Your booking is not allow to checkout here. We will redirected you to the website that you will able to book this unit. Please click the button below.",
+
+    "AffiliatePopup_whiteTypography": "Continue to checkout",
+
+    "Timer_typography": "Booking time left",
+
+    "Checkout_grey3Typography": "Checkout",
+    
+    "UseSpaceAvailabilityToast_alert": "is space is not available for the given dates!",
+    
+    "CheckoutPage_text": "Checkout",
+
+    "PaymentSchedule_label":"Payment Schedule",
+    "PaymentSchedule_month":"month",
+    "PaymentSchedule_onGoing":"Ongoing",
+    "PaymentSchedule_typography": "Check your payment schedule",
+
+    "PaymentScheduleHeaderText_grey3Typography": "Your payment schedule",
+    "PaymentScheduleHeaderText_grey2Typography": "Please check your payment schedule after apply the promotion.",
+
+    "PaymentProcessing_typography1": "Payment processing",
+    "PaymentProcessing_typography2": "Wait a minute, We’re processing your payment. Please don’t leave this page.",
+
+    "DatePickerPopup_grey2Typography": "Clear Date",
+    "DatePickerPopup_whiteTypography": "confirm"
+
+}

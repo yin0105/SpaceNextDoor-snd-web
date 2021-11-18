@@ -1,0 +1,7 @@
+
+.bookingbox__sticky_active {}
+
+.bookingbox__sticky_active .bookingbox__sticky {
+  margin-top: 0 !important;
+  transition: margin 0.3s linear;
+}

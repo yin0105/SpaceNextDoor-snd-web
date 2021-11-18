@@ -1,0 +1,221 @@
+{
+    "BuildingDetails_span":"เช่าต่อเนื่องรายเดือน",
+    "BuildingDetails_typography1": "ย้ายเข้า",
+    "BuildingDetails_typography2": "ย้ายออก",
+    "BuildingDetails_typography3": "รายละเอียดพื้นที่",
+    "BuildingDetails_typography4": "เวลารับของ",
+    "BuildingDetails_typography5": "ยูนิตเก็บของ",
+    "BuildingDetails_typography6": "แผนประกันภัย",
+    "BuildingDetails_typography7": "จนถึง",
+    "BuildingDetails_typography8": "ต่อเดือน (ความคุ้มครองประกัน)",
+    "BuildingDetails_typography9": "หมายเลขการจอง",
+    "BuildingDetails_to": "ถึง",
+    "BuildingDetails_from": "จาก",
+    "BuildingDetails_weeks": "อาทิตย์",
+    "BuildingDetails_guest": "ผู้เยี่ยมชม",
+    "BuildingDetails_autoRenewal": "ต่ออายุอัตโนม้ติ",
+    "BuildingDetails_perWeek": "ต่ออาทิตย์",
+    "BuildingDetails_fullAddress": "ที่อยู่เต็ม",
+    "BuildingDetails_review": "รีวิว",
+    "BuildingDetails_unitDetails": "รายละเอียดยูนิต",
+    "BuildingDetails_paymentDetail": "รายละเอียดการชำระเงิน",
+    "BuildingDetails_paymentMethod": "วิธีการชำระเงิน",
+    "BuildingDetails_cardType": "ประเภทบัตร",
+    "BuildingDetails_cardNumber": "หมายเลขบัตร",
+    "BuildingDetails_seeInvoice": "ดูใบเสร็จรับเงิน",
+    "BuildingDetails_bookAgain": "จองอีกครั้ง",
+    "BuildingDetails_paymentHistory": "ประวัติการชำระเงิน",
+    "BuildingDetails_sizeUnits": "ขนาดยูนิต",
+    "BuildingDetails_subtotal": "รวมเป็นเงิน",
+    "BuildingDetails_pickUpService": "บริการขนส่ง",
+    "BuildingDetails_insurance": "การประกัน",
+    "BuildingDetails_total": "จำนวนเงินรวมทั้งสิ้น",
+    "BuildingDetails_unitSize": "ขนาดยูนิต",
+    "BuildingDetails_unitName": "ชื่อยูนิต",
+    "BuildingDetails_unitNumber": "หมายเลขยูนิต",
+    "BuildingDetails_sizeWithAC": "ขนาด {{size}} พร้อมแอร์",
+    "BuildingDetails_unassigned": "ไม่ได้รับมอบหมาย",
+    "BuildingDetails_bookingStatus": "ชำระแล้ว",
+    "BuildingDetails_insuranceCover": "ประกันครอบคลุม",
+    "BuildingDetails_essentialUpTo": "สูงสุดถึง",
+
+    "Header_typography1": "การจองของคุณได้รับการยืนยันแล้ว!",
+    "Header_typography2": "หมายเลขการจอง",
+
+    "PaymentSummary_typography1": "สรุปการชำระเงิน",
+    "PaymentSummary_bookingStatus": "จ่ายแล้ว",
+    "PaymentSummary_typography2": "รวมเป็นเงิน",
+    "PaymentSummary_typography3": "โปรโมชั่น",
+    "PaymentSummary_typography4": "เงินมัดจำ",
+    "PaymentSummary_typography5": "บริการเพิ่มเติม",
+    "PaymentSummary_typography6": "ประกันภัย",
+    "PaymentSummary_typography7": "จำนวนเงินรวมทั้งสิ้น",
+    "PaymentSummary_typography8": "(ราคารายเดือนที่แสดง)",
+    "PaymentSummary_typography9": "วิธีการชำระเงิน",
+    "PaymentSummary_typography10SG": "See Tax Invoice",
+    "PaymentSummary_typography10": "ดูใบเสร็จรับเงิน",
+    "PaymentSummary_typography11": "ภาษีทั้งหมด",
+
+    "ConfirmButton_button": "ยืนยันและชำระเงิน",
+
+    "Buttons_continue": "ดำเนินการต่อ",
+    "Buttons_acceptAndPay": "ยืนยันและชำระเงิน",
+
+    "AutoRenewal_grey3Typography1": "ต่ออายุอัตโนมัติ",
+    "AutoRenewal_grey3Typography2": "การเป็นสมาชิกของคุณจะเริ่มวันที่",
+
+    "BodyText_grey3Typography": "คุณยืนยันที่จะปิดการต่ออายุอัตโนมัติหรือไม่",
+    "BodyText_grey2Typography": "โปรดเลือกวันที่ย้ายออก เพื่อดูการเป็นสมาชิกวันครั้งสุดท้ายของคุณ",
+
+    "AutoRenewalButtons_grey2Typography": "ยกเลิก",
+    "AutoRenewalButtons_whiteTypography": "ยืนยัน",
+
+    "HeaderText_grey3Typography": "ปิดการต่ออายุอัตโนมัติ",
+
+    "ScheduleTime_grey3Typography": "กำหนดเวลา",
+
+    "Dates_title1": "ย้ายเข้า",
+    "Dates_desc1": "กรุณาเลือกวันที่ย้ายเข้า",
+    "Dates_title2": "ย้ายออก",
+    "Dates_desc2": "กรุณาเลือกวันที่ย้ายออก",
+    "Dates_grey2Typography": "มีการเช่าต่อเนื่องรายเดือน",
+
+    "DatesModal_grey2Typography": "ล้างวันที่",
+    "DatesModal_whiteTypography": "ยืนยัน",
+    "DatesModal_availability": "หมายเหตุ: ยูนิตที่คุณเลือกเป็นยูนิตสุดท้ายแล้ว",
+
+    "YourDetail_grey3Typography": "ข้อมูลของคุณ",
+
+    "PersonalInfoCard_title1": "ชื่อ-นามสกุล",
+    "PersonalInfoCard_label1": "ชื่อ-นามสกุล",
+    "PersonalInfoCard_title2": "อีมล",
+    "PersonalInfoCard_label2": "ที่อยู่อีเมล",
+    "PersonalInfoCard_title3": "หมายเลขโทรศัพท์",
+
+    "FormBookingDetails_progressLayoutTitle": "รายละเอียดการจอง",
+    "FormBookingDetails_progressLayoutBtnText": "จองยูนิตนี้",
+    "FormBookingDetails_dataTitle1": "ย้ายเข้า",
+    "FormBookingDetails_dataTitle2": "ย้ายออก",
+    "FormBookingDetails_dataTitle3": "ต่ออายุอัตโนมัติ",
+    "FormBookingDetails_dataTitle4": "ชื่อเต็ม",
+    "FormBookingDetails_dataTitle5": "อีเมล",
+    "FormBookingDetails_dataTitle6": "หมายเลขโทรศัพท์",
+    "FormBookingDetails_errorCreateBooking": "เราไม่สามารถดำเนินการจองได้ ณ ขณะนี้ โปรดลองใหม่ภายหลัง",
+
+    "FormInsurancePlan_progressLayoutTitle": "แผนประกันภัย",
+    "FormInsurancePlan_titleP1": "คุ้มครองถึง {{currencySign}}{{coveredAmount}} {{currencySign}}{{pricePerDay}} ต่อวัน (ความคุ้มครองประกัน)",
+    "FormInsurancePlan_titleP2": "ไม่มีประกันภัย",
+
+    "InsurancePlanHeader_grey2Typography": "ประกันภัยรายเดือนมีไว้เพื่อป้องกันทรัพย์สินที่จัดเก็บไว้จากความสูญเสียที่เกิดจากไฟไหม้ ฟ้าผ่าและ/หรืออันตรายจากภายนอก",
+
+    "OneVariant_primaryTypography": "นิยมมากที่สุด",
+    "OneVariant_grey3Typography1": "จนถึง",
+    "OneVariant_grey2Typography1": "ความคุ้มครองประกัน",
+    "OneVariant_grey2Typography2": "ต่อเดือน",
+    "OneVariant_grey3Typography2": "ฉันสนใจ แต่โปรดเตือนฉันอีกครั้งในภายหลัง",
+
+    "FormPaymentMethod_paymentError": "เกิดข้อผิดพลาดในการโหลดข้อมูลที่เกี่ยวข้องกับการชำระเงิน!",
+    "FormPaymentMethod_title": "วิธีการชำระเงิน",
+    "FormPaymentMethod_btnText": "ยอมรับ และชำระเงิน",
+
+    "CheckBox_label": "ใช้ที่อยู่การวางบิลเป็นที่อยู่เดียวกับที่อยู่รับ/ส่งของ",
+
+    "FormPickUpServices_title1": "บริการ",
+    "FormPickUpServices_title2": "ที่อยู่รับ/ส่งของ",
+    "FormPickUpServices_title3": "เวลารับสิ่งของ",
+    "FormPickUpServices_pickupDetails": "กรุณากรอกที่อยู่สำหรับบริการขนส่ง!",
+    "FormPickUpServices_title4": "บริการขนส่ง",
+    "FormPickUpServices_subtitle4": "คุณต้องการบริการขนส่งหรือไม่?",
+    "FormPickUpServices_title5": "และบริการย้ายของ",
+    "FormPickUpServices_selfPickup": "ขนส่งด้วยตนเอง",
+
+    "ChooseYourService_serviceTitle1": "ใช่ ฉันต้องการใช้บริการ",
+    "ChooseYourService_serviceTitle2": "ไม่ ฉันสามารถจัดการเองได้",
+    "ChooseYourService_serviceDesc": "ส่งสิ่งของของคุณไปที่สถานที่เก็บของ",
+
+    "Service_typography1": "สะดวกที่สุด",
+    "Service_typography2": "เริ่มต้นที่",
+    "Service_typography3": "ดูห้องเก็บของบนแผนที่",
+    "Service_typography4": "แนะนำ",
+
+    "YourCollectionDetail_grey3Typography1": "รายละเอียดการรับ/ส่งของ",
+    "YourCollectionDetail_grey3Typography2": "ที่อยู่",
+    "YourCollectionDetail_placeholder": "กรอกที่อยู่ของคุณ",
+    "YourCollectionDetail_grey3Typography3": "เวลารับสิ่งของ",
+    "YourCollectionDetail_menuItem": "กำลังโหลด...",
+    "YourCollectionDetail_grey3Typography4": "ใช่แล้ว ฉันต้องการคนช่วยขนย้ายของไปที่ห้องเก็บของ",
+    "YourCollectionDetail_grey3Typography5": "ไม่เป็นไร ฉันจะขนย้ายของด้วยตนเอง",
+    "YourCollectionDetail_grey3TypographyTitle": "ต้องการคนช่วยขนย้ายของไหม?",
+    "YourCollectionDetail_grey3TypographySubtitle": "จ้างผู้เชี่ยวชาญด้านการขนย้ายเพื่อช่วยคุณย้ายสัมภาระจากบ้านไปที่ยูนิต",
+
+    "ButtonConfirm_whiteTypography": "ยืนยัน",
+    "ButtonConfirm_alert": "ทำการเลือกที่ตั้งเพื่อดำเนินการต่อ!",
+
+    "InputCurrentLocation_placeholder": "ที่ตั้งปัจจุบัน",
+    "InputCurrentLocation_menuItem": "กำลังโหลด...",
+
+    "DesktopVersion_grey3Typography": "เลือกตำแหน่งที่ตั้ง",
+
+    "MobileVersion_text": "เลือกตำแหน่งที่ตั้ง",
+
+    "ProgressLayout_grey2Typography1": "ยูนิตของคุณจะถูกจองไว้เป็นเวลา 15 นาที กรุณาดำเนินการชำระเงินให้เสร็จสมบูรณ์",
+    "ProgressLayout_grey2Typography2": "ตรวจสอบให้แน่ใจว่าคุณได้ใช้โปรโมชั่นแล้ว ก่อนที่จะทำการจอง",
+    "ProgressLayout_noServices": "ไม่เป็นไร ฉันไม่ต้องการใช้บริการ",
+
+    "SiteAgreement_typography1": "การคลิกที่ปุ่มยอมรับและชำระเงินแสดงว่าคุณเห็นด้วยกับ",
+    "SiteAgreement_typography2": "ข้อตกลงสิทธิพื้นที่เก็บของให้เช่า",
+
+    "PriceInfo_title1": "รวมเป็นเงิน (รายเดือน)",
+    "PriceInfo_title2": "เงินมัดจำ",
+    "PriceInfo_title3": "โปรโมชั่น",
+    "PriceInfo_title4": "รหัสโปรโมชั่น",
+    "PriceInfo_title5": "บริการเพิ่มเติม",
+    "PriceInfo_title6": "ประกันภัย (รายเดือน)",
+
+    "Total_grey3Typography": "จำนวนเงินรวมทั้งสิ้น",
+
+    "Promotions_grey3Typography": "โปรโมชั่น",
+    "Promotions_error": "โปรโมชั่นไม่สามารถใช้ได้กับการจองนี้เนื่องจากไม่ตรงตามข้อกำหนดขั้นต่ำ",
+    "Promotions_label": "ไม่เป็นไร ฉันไม่ต้องการโปรโมชั่น",
+    "Promotions_promoError": "รหัสโปรโมชั่นใช้ไม่ได้หรือหมดอายุ",
+
+    "PromoCode_grey3Typography": "มีรหัสโปรโมชั่นหรือไม่",
+    "PromoCode_placeholder": "รหัสโปรโมชั่น",
+    "PromoCode_whiteTypography1": "ใช้",
+    "PromoCode_whiteTypography2": "ลบ",
+
+    "SessionExpiredPopup_typography": "หมดเวลา",
+    "SessionExpiredPopup_grey3Typography": "ระยะเวลาการจองของคุณเกินเวลาที่กำหนด",
+    "SessionExpiredPopup_grey2Typography": "คุณไม่ได้ชำระเงินตรงตามเวลาที่กำหนด โปรดลองอีกครั้งเพื่อดำเนินการจองต่อไป",
+
+    "SessionExpiredButtons_whiteTypography": "ลองอีกครั้ง",
+
+    "AffiliatePopup_typography": "ขออภัย ยูนิตนี้ไม่สามารถจองได้บนเว็บไซต์ของเรา",
+    "AffiliatePopup_grey3Typography": "การจองของคุณไม่อนุญาตให้ชำระเงินได้ที่นี่",
+    "AffiliatePopup_grey2Typography": "เราจะนำทางคุณไปที่เว็บไซต์ที่คุณสามารถจองยูนิตนี้ได้ โปรดคลิกที่ปุ่มด้านล่าง",
+    "AffiliatePopup_Mobilegrey2Typography": "การจองของคุณไม่อนุญาตให้ชำระเงินได้ที่นี่ เราจะนำทางคุณไปยังเว็บไซต์ที่คุณสามารถจองยูนิตนี้ได้ โปรดคลิกที่ปุ่มด้านล่าง",
+    "AffiliatePopup_whiteTypography": "ดำเนินการต่อเพื่อชำระเงิน",
+
+    "Timer_typography": "เหลือเวลาในการจอง",
+
+    "Checkout_grey3Typography": "ชำระเงิน",
+
+    "UseSpaceAvailabilityToast_alert": "ไม่มีพื้นที่ว่างในวันดังกล่าว!",
+
+    "CheckoutPage_text": "ชำระเงิน",
+
+    "PaymentSchedule_label":"กำหนดการชำระเงิน",
+    "PaymentSchedule_month":"เดือน",
+    "PaymentSchedule_onGoing":"กำลังดำเนินการ",
+    "PaymentSchedule_typography": "ตรวจสอบตารางการชำระเงินของคุณ",
+
+    "PaymentScheduleHeaderText_grey3Typography": "กำหนดการชำระเงินของคุณ",
+    "PaymentScheduleHeaderText_grey2Typography": "โปรดตรวจสอบกำหนดการชำระเงินของคุณหลังจากใช้งานโปรโมชั่น",
+
+    "PaymentProcessing_typography1": "กำลังดำเนินการชำระเงิน",
+    "PaymentProcessing_typography2": "โปรดรอสักครู่ เรากำลังดำเนินการการชำระเงินของคุณในขณะนี้ กรุณาอย่าออกจากหน้านี้",
+
+    "DatePickerPopup_grey2Typography": "ล้างวันที่",
+    "DatePickerPopup_whiteTypography": "ยืนยัน"
+
+}

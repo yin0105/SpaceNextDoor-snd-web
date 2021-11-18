@@ -1,0 +1,30 @@
+{
+    "Header_typography1": "Estimate the size you need",
+    "Header_typography2": "Choose an option below and we’ll find spaces to match your requirements",
+    
+    "StandardBox_typography1": "Standard Box",
+    "StandardBox_typography2": "Medium Dept51 X Width41 X Height41 cm",
+
+    "CustomBox_typography1": "My own box",
+    "CustomBox_typography2": "Width",    
+    "CustomBox_typography3": "Height",
+    "CustomBox_typography4": "Depth",    
+
+    "Step1_typography1": "What kind of box do you need?",
+    "Step1_button1": "Cancel",
+    "Step1_button2": "Next",
+
+    "Step2_typography1": "How many boxes do you need?",
+    "Step2_typography2": "Please fill amount of your boxes to estimate your space size",
+    "Step2_typography3": "boxes",
+    "Step2_button1": "Go back",
+    "Step2_button2": "ESTIMATE SIZE",
+    
+    "Step3_typography1": "You need",
+    "Step3_typography2": "Standard boxes",
+    "Step3_typography3": "Your own boxes",
+    "Step3_typography4": "Size Guide",
+    "Step3_button1": "Go back",
+    "Step3_button2": "FIND STORAGE"
+
+}

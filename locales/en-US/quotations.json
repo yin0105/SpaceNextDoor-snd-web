@@ -1,0 +1,45 @@
+{
+    "GetAQuote_typography1": "We found storage units near your preferred location. Our team will quickly help you find the best space! Click here to",
+    "GetAQuote_typography2": "get a quote",
+
+    "FormLocation_typography1": "Is there any locations do you prefer to store except from {{location}}?",
+    "FormLocation_typography2": "We’ll send the other option if the we can’t find any facilities match with unit size and location you need.",
+    "FormLocation_error": "No spaces found for the selected district - please choose another",
+
+    "SelectLocation_typography1": "By district",
+    "SelectLocation_allDistricts": "All districts",
+
+    "Footer_textButton": "GO BACK",
+    "Footer_primaryButton": "NEXT",
+    "Footer_getQuote": "GET A QUOTE",
+    "Footer_estimate": "ESTIMATE SIZE",
+
+    "FormMoveInDate_typography1": "When do you want to move in?",
+    "FormMoveInDate_typography2": "Please choose move in date to see available unit.",
+
+    "FormPersonalInfo_typography1": "Tell us about yourself to save quote",
+    "FormPersonalInfo_typography2": "We will save best price for you and email you personalized quote. And we have moving service if you need help on checkout process.",
+    "FormPersonalInfo_typography3": "Your Detail",
+    "FormPersonalInfo_label1": "Full name",
+    "FormPersonalInfo_label2": "Email",
+    "FormPersonalInfo_label2Email": "Email address",
+    "FormPersonalInfo_label3": "Phone Number",
+
+    "Estimate_typography1": "How many items do you have for moving ?",
+    "Estimate_typography2": "Choose the items that you plan to put in storage to get as size estimate.",
+
+    "SpaceType_typography1": "RECOMMENDED",
+    "SpaceType_typography2": "What's fit in this size",
+    "SpaceType_typography3": "Starting at",
+    "SpaceType_typography4": "month",
+
+    "FormSpaceType_typography1": "How much space do you need?",
+    "FormSpaceType_typography2": "Need help estimating?",
+    "FormSpaceType_typography3": "Yes, let’s estimate!",
+    "FormSpaceType_text": "The estimated space is not available is this facility. We do recommed you the following space or",
+    "FormSpaceType_subText": "Explore more storages on this size unit",
+
+    "Thanks_typography1": "Thank you for contacting us  !!",
+    "Thanks_typography2": "We will send quotation to your email shortly.",
+    "Thanks_typography3": "Back To Homepage"
+}

@@ -1,0 +1,45 @@
+{
+    "GetAQuote_typography1": "เราพบพื้นที่เก็บของให้เช่าอื่นๆในบริเวณใกล้เคียงจากตำแหน่งที่คุณค้นหา หรือติดต่อเจ้าหน้าที่ของเราเพื่อขอความช่วยเหลือ คลิกที่นี่เพื่อ",
+    "GetAQuote_typography2": "ขอใบเสนอราคา",
+
+    "FormLocation_typography1": "มีตำแหน่งอื่นที่คุณต้องการจัดเก็บนอกเหนือจาก {{location}} หรือไม่?",
+    "FormLocation_typography2": "เราจะส่งตัวเลือกอื่นถ้าเราไม่สามารถหาสถานที่จัดเก็บอื่นซึ่งตรงกับขนาดยูนิตและตำแหน่งที่คุณต้องการ",
+    "FormLocation_error": "ไม่พบพื้นที่จัดเก็บในเขตพื้นที่ที่เลือก โปรดเลือกเขตพื้นที่อื่น",
+
+    "SelectLocation_typography1": "ตามเขต",
+    "SelectLocation_allDistricts": "ทุกเขต",
+
+    "Footer_textButton": "ย้อนกลับ",
+    "Footer_primaryButton": "ต่อไป",
+    "Footer_getQuote": "ขอใบเสนอราคา",
+    "Footer_estimate": "คำนวณขนาด",
+
+    "FormMoveInDate_typography1": "คุณต้องการย้ายเข้าเมื่อไหร่?",
+    "FormMoveInDate_typography2": "โปรดเลือกวันย้ายเข้าเพื่อดูยูนิตที่ว่าง",
+
+    "FormPersonalInfo_typography1": "บอกเราเกี่ยวกับคุณเพื่อจัดเตรียมใบเสนอราคา",
+    "FormPersonalInfo_typography2": "เราจะหาราคาที่ดีที่สุดสำหรับคุณและส่งอีเมลใบเสนอราคาสำหรับคุณ และเรามีบริการขนย้ายถ้าคุณต้องการความช่วยเหลือที่ขั้นตอนการชำระเงิน",
+    "FormPersonalInfo_typography3": "รายละเอียดของคุณ",
+    "FormPersonalInfo_label1": "ชื่อ-นามสกุล",
+    "FormPersonalInfo_label2": "อีเมล",
+    "FormPersonalInfo_label2Email": "ที่อยู่อีเมล",
+    "FormPersonalInfo_label3": "เบอร์โทรศัพท์",
+
+    "Estimate_typography1": "คุณมีสิ่งของสำหรับการขนย้ายจำนวนเท่าไร?",
+    "Estimate_typography2": "เลือกของที่คุณวางแผนจะจัดเก็บไว้ในพื้นที่จัดเก็บเพื่อรับการคำนวณขนาด.",
+
+    "SpaceType_typography1": "ที่แนะนำ",
+    "SpaceType_typography2": "สิ่งที่สามารถจัดเก็บได้ในพื้นที่ขนาดนี้",
+    "SpaceType_typography3": "เริ่มต้นที่",
+    "SpaceType_typography4": "เดือน",
+
+    "FormSpaceType_typography1": "คุณต้องการพื้นที่ขนาดเท่าไร?",
+    "FormSpaceType_typography2": "ต้องการความช่วยเหลือในการคำนวณขนาด?",
+    "FormSpaceType_typography3": "่ใช่แล้ว คำนวณเลย!",
+    "FormSpaceType_text": "พื้นที่ที่คำนวณไม่ว่างให้บริการในสถานที่จัดเก็บนี้ แต่เรามีพื้นที่ต่อไปแนะนำคุณหรือ",
+    "FormSpaceType_subText": "ค้นหาพื้นที่จัดเก็บอื่นๆ ในยูนิตขนาดเดียวกันนี้",
+
+    "Thanks_typography1": "ขอบคุณที่ติดต่อหาเรา!!",
+    "Thanks_typography2": "เราจะส่งใบเสนอราคาไปให้คุณทางอีเมลในเร็วๆ นี้",
+    "Thanks_typography3": "กลับสู่หน้าแรก"
+}

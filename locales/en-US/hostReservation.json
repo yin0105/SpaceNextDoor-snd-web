@@ -1,0 +1,63 @@
+{
+    "DesktopTabs_placeholder": "Search Reservations...",
+    "DesktopTabs_all": "ALL",
+    "DesktopTabs_confirmed": "CONFIRMED",
+    "DesktopTabs_completed": "COMPLETED",
+    "DesktopTabs_cancelled": "CANCELLED",
+
+    "Details_listItemsName1": "Subtotal",
+    "Details_listItemsName2": "Pick up service",
+    "Details_listItemsName3": "Insurance",
+    "Details_listItemsName4": "Deposit",
+    "Details_listItemsName5": "Discount",
+    "Details_listItemsName6": "Total",
+    "Details_itemDetailName1": "Full Address",
+    "Details_itemDetailName2": "Unit name",
+    "Details_itemDetailName3": "Unit size",
+    "Details_itemDetailName4": "Reference",
+    "Details_itemDetailName5": "From",
+    "Details_itemDetailName6": "To",
+    "Details_itemDetailName7": "Customer",
+    "Details_itemDetailName8": "Amount Paid",
+
+    "MobileVersion_placeholder": "Search Reservations...",
+   
+    "Modal_headerTitle": "Cancel Reservation",
+    "Modal_subtitle": "Do you confirm to cancel this reservation?",
+    "Modal_message1": "You will not be able to recover",
+    "Modal_message2": "is information",
+    "Modal_cancel": "Cancel",
+    "Modal_confirm": "Confirm", 
+    
+     
+    "Table_noReservation": "No reservations found!",
+    "Table_noReservationMsg": "You still do not have any reservations. Please list your space to start earning money.",
+    "Table_header1": "Booking ID",   
+    "Table_header2": "Status",   
+    "Table_header3": "Customer",   
+    "Table_header4": "Property",   
+    "Table_header5": "Unit",   
+    "Table_header6": "Move in",   
+    "Table_header7": "Move out",   
+
+    "ReservationDetails_title1": "Bookings",
+    "ReservationDetails_title2": "Hosting",
+    "ReservationDetails_subtitle1": "Booking Details",
+    "ReservationDetails_subtitle2": "Reservation Details",
+    "ReservationDetails_itemsTitle1": "Manage Reservations",
+    "ReservationDetails_itemsTitle2": "Reservation Details",
+    "ReservationDetails_itemsGuestTitle1": "Bookings",
+    "ReservationDetails_itemsGuestTitle2": "Booking Details",
+    
+    "Reservations_title1": "Guest",
+    "Reservations_title2": "Hosting",
+    "Reservations_subtitle": "Manage",
+    "Reservations_subtitle1": "Bookings",
+    "Reservations_subtitle2": "Reservations",
+ 
+    "ComponentsSelect_all": "ALL",
+    "ComponentsSelect_confirmed": "CONFIRMED",
+    "ComponentsSelect_completed": "COMPLETED",
+    "ComponentsSelect_cancelled": "CANCELLED"
+
+}

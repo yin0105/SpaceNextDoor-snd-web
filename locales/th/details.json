@@ -1,0 +1,90 @@
+{
+    "AvailableUnits_title": "ยูนิตที่ว่างอยู่",
+    "AvailableUnits_priceButton": "ราคาที่แสดง",
+    "AvailableUnits_grey2": "วันที่ย้ายเข้าคือ",
+    "AvailableUnits_changeDate": "เปลี่ยนวันที่",
+
+    "Description_readMore": "อ่านเพิ่ม",
+    "Description_showLess": "แสดงน้อยลง",
+
+    "Size_availability": "คุณสามารถจองยูนิตนี้ได้จนถึง",
+
+    "SpaceSelector_body1": "คุณต้องการความช่วยเหลือในการคำนวณขนาดพื้นที่หรือไม่?",
+    "SpaceSelector_h3": "ยูนิตเก็บสิ่งของ",
+    "SpaceSelector_body2": "เราได้คัดเลือกขนาดยูนิตตามขนาดพื้นที่ที่คุณเลือกไว้ก่อนหน้านี้ โปรดใช้ตัวกรองด้านล่างเพื่อปรับเปลี่ยนขนาดพื้นที่ของคุณ",
+
+    "Filters_soldout": "ทุกยูนิตถูกจองหมดแล้วในหมวดนี้!",
+
+    "SoldOut_error": "คุณจองไม่ทันแล้ว!",
+    "SoldOut_grey2": "ยูนิตสุดท้ายของเราที่ถูกจองในวันนั้น",
+
+    "SpaceDetails_title": "คุณได้เลือก:",
+
+    "BreadCrumbs_search": "ค้นหา",
+    "BreadCrumbs_storage": "พื้นที่เก็บของ",
+    "BreadCrumbs_secondTypography": "แนะนำ",
+    "BreadCrumbs_whiteTypography": "ขายดีที่สุด",
+
+    "HowItWorks_h2": "เริ่มต้นใชังาน",
+
+    "Items_find": "ค้นหา",
+    "Items_findDesc": "ค้นหาพื้นที่เก็บของจากเรา เพื่อหาตำแหน่งใกล้คุณ",
+    "Items_book": "จอง",
+    "Items_bookDesc": "ส่งข้อความหาเราเพื่อเรียนรู้เพิ่มเติม และจองพื้นที่ที่ตรงกับความต้องการมากที่สุด",
+    "Items_move": "ย้าย",
+    "Items_moveDesc": "กำหนดวันเวลาย้ายเข้าเพื่อแจ้งผู้ให้เช่าทราบ และเข้าเก็บสัมภาระได้ทันที",
+
+    "OneItem_grey3Typography": "ขั้นตอน",
+
+    "Map_typography": "ตำแหน่ง",
+
+    "MobileStickyBookWidget_typography1": "โปรดเลือกพื้นที่เพื่อดูราคา! ",
+    "MobileStickyBookWidget_typography2": " ถ้าไม่แน่ใจเรื่องขนาดห้อง ให้เราคำนวณขนาดและขอใบเสนอราคาได้ที่นี่",
+    "MobileStickyBookWidget_typography3": "กรุณาเลือกวันที่ย้ายเข้า เพื่อแสดงราคา!",
+    "MobileStickyBookWidget_typography4": "เดือน",
+    "MobileStickyBookWidget_or": "หรือ",
+    "MobileStickyBookWidget_primaryButton1": "จองตอนนี้",
+    "MobileStickyBookWidget_primaryButton2": "ขอใบเสนอราคา",
+    "MobileStickyBookWidget_unitDetails": "ดูรายละเอียดขนาดยูนิต",
+
+    "MobilePromotion_typography1": "โปรโมชั่นที่ใช้ได้",
+
+    "Rating_typography": "รีวิว",
+
+    "SimilarStorages_title": "พื้นที่เก็บของที่คล้ายกัน",
+
+    "Reviews_typography1": "คะแนนโดยรวม",
+    "Reviews_typography2": "รีวิว",
+    "Reviews_typography3": "ตรวจสอบโดย",
+    "Reviews_reviews": "รีวิว",
+    "Reviews_googleReviews": "รีวิวจาก Google",
+
+    "SiteAmenities_title": "สิ่งอำนวยความสะดวก",
+
+    "StickyBookWidget_typography1": "โปรดเลือกพื้นที่เพื่อดูราคา!",
+    "StickyBookWidget_typography2": " ถ้าไม่แน่ใจเรื่องขนาดห้อง ให้เราคำนวณขนาดและขอใบเสนอราคาได้ที่นี่",
+    "StickyBookWidget_typography3": "กรุณาเลือกวันที่ย้ายเข้า เพื่อแสดงราคา!",
+    "StickyBookWidget_typography4": "ราคารายเดือน",
+    "StickyBookWidget_typography5": "ขนาดยูนิต",
+    "StickyBookWidget_or": "หรือ",
+    "StickyBookWidget_primaryButton1": "จองตอนนี้",
+    "StickyBookWidget_primaryButton2": "ขอใบเสนอราคา",
+    "StickyBookWidget_unitDetails": "คลิกที่รูปขนาดยูนิตเพื่อดูรายละเอียดเพิ่มเติม",
+
+    "SpaceTypeDetails_typography1": "เริ่มต้นที่",
+    "SpaceTypeDetails_typography2": "เดือน",
+    "SpaceTypeDetails_ok": "โอเค",
+    "SpaceTypeDetails_select": "เลือก",
+
+    "Promotion_typography1": "มี {{count}} โปรโมชั่น!",
+
+    "Details_title": "มีตัวเลือกห้องเก็บของที่ {{site}}",
+
+    "QuotationDialog_typography1": "โปรโมชันของคุณสามารถใช้ได้กับการชำระเงิน!",
+    "QuotationDialog_Typography2": "ยินดีด้วย! คุณจะได้รับส่วนลดเพิ่ม 10%",
+    "QuotationDialog_typography3": "รหัสโปรโมชันของคุณจะสามารถใช้กับขั้นตอนการชำระเงินได้ คุณจะได้รับส่วนลด 10% สำหรับการจองเดือนแรก โปรดทำการจองทันทีเพื่อรับราคานี้",
+    "QuotationDialog_primaryButton": "โอเค",
+
+    "QuotationAlert_typography1": "เราจะใช้ส่วนลด 10% ที่ขั้นตอนการชำระเงิน",
+    "QuotationAlert_typography2": "ข้อเสนอนี้ใช้ได้ในช่วงเวลาจำกัดเท่านั้น จองตอนนี้และประหยัดเงินทันที!"
+}

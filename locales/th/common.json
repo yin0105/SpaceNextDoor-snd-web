@@ -1,0 +1,20 @@
+{
+    "BookingStoreErrors_invalidFullName": "ชื่อนามสกุลไม่ถูกต้อง",
+    "BookingStoreErrors_invalidEmail": "อีเมลไม่ถูกต้อง",
+    "BookingStoreErrors_invalidPhoneNumber": "เบอร์โทรศัพท์ไม่ถูกต้อง",
+    "BookingStoreErrors_bookingError": "โปรดเลือกวันย้ายเข้าและวันย้ายออกที่ถูกต้อง!",
+    "BookingStoreErrors_paymentError": "เกิดข้อผิดพลาดในขณะดำเนินการชำระเงินของคุณ โปรดลองอีกครั้งในภายหลัง!",
+
+    "SiteBookingStatus_ACTIVE": "ใช้งานอยู่",
+    "SiteBookingStatus_ARCHIVED": "เก็บถาวร",
+    "SiteBookingStatus_DRAFT": "ฉบับร่าง",
+    "SiteBookingStatus_IN_ACTIVE": "ไม่มีการใช้งาน",
+    "SiteBookingStatus_READY_TO_REVIEW": "พร้อมสำหรับรีวิว",
+    "SiteBookingStatus_REJECTED": "ถูกปฏิเสธ",
+    "SiteBookingStatus_INACTIVE": "ไม่มีการใช้งาน",
+    "SiteBookingStatus_CANCELLED": "ยกเลิก",
+    "SiteBookingStatus_COMPLETED": "เสร็จสิ้น",
+    "SiteBookingStatus_CONFIRMED": "ยืนยัน",
+    "SiteBookingStatus_RESERVED": "จอง",
+    "SiteBookingStatus_TERMINATED": "สิ้นสุด"
+}

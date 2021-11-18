@@ -1,0 +1,29 @@
+FROM 414928843086.dkr.ecr.ap-southeast-1.amazonaws.com/snd-node:14.17 as builder
+LABEL maintainer="Harry Nguyen"
+ARG NEXT_PUBLIC_REACT_APP_API_BASE_URL
+ARG NEXT_PUBLIC_REACT_APP_GRAPHQL_API
+ARG NEXT_PUBLIC_GOOGLE_API_KEY
+ARG NEXT_PUBLIC_STRIPE_KEY
+ARG NEXT_PUBLIC_APP_ENV
+ARG NEXT_PUBLIC_REACT_APP_FILTER_BY_STOCK
+ARG NEXT_PUBLIC_REACT_APP_SEARCH_RADIUS_SG
+ARG NEXT_PUBLIC_REACT_APP_SEARCH_RADIUS_TH
+ARG NEXT_PUBLIC_REACT_APP_SEARCH_RADIUS_JP
+ARG LATEST_GIT_HASH
+ARG NEXT_PUBLIC_INTERCOM_APP_ID
+WORKDIR /var/source
+
+COPY ./package*.json ./
+RUN npm install
+
+COPY . .
+
+RUN npm run build
+
+FROM 414928843086.dkr.ecr.ap-southeast-1.amazonaws.com/snd-node:14.17-alpine
+USER node
+
+WORKDIR /var/source
+COPY --from=builder --chown=node:node /var/source ./
+
+ENTRYPOINT ["npm", "run", "start:prod"]

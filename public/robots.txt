@@ -1,0 +1,10 @@
+#An example robots.txt allow access to all by default and restrict access to /api/
+User-agent: * 
+Disallow: /api/*
+Allow: /en-US/*
+
+#Example sitemap url
+Sitemap: https://www.spacenextdoor.com/sitemap.xml
+Sitemap: https://spacenextdoor.com/sitemap.xml
+Sitemap: https://spacenextdoor.co.th/sitemap.xml
+Sitemap: https://spacenextdoor.com/en-US/sitemap.xml

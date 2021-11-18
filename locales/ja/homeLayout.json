@@ -1,0 +1,25 @@
+{
+
+    "HamburgerMenu_grey3Typography": "ようこそ",
+    "HamburgerMenu_typography": "サインアウトしますか？",
+    "HamburgerMenu_no": "いいえ",
+    "HamburgerMenu_yes": "はい",
+
+    "Login_h2": "ログイン",
+    "Login_grey2Typography": "詳細情報閲覧のためにログインしてください",
+    "Login_primaryButton": "ログイン",
+
+    "MenuList_guest1Name": "予約",
+    "MenuList_guest2Name": "口座",
+    "MenuList_guest3Name": "ホスト用ページに行く",
+    "MenuList_common1Name": "言語",
+    "MenuList_common2Name": "国名",
+    "MenuList_common3Name": "お問い合わせ",
+    "MenuList_common4Name": "お客様サポート",
+    "MenuList_common5Name": "ブログ",
+    "MenuList_common6Name": "サインアウト",
+    "MenuList_host1Name": "私のリスト",
+    "MenuList_host2Name": "予約",
+    "MenuList_host3Name": "口座",
+    "MenuList_host4Name": "ゲスト用ページに行く"
+}

@@ -1,0 +1,24 @@
+{
+    "HamburgerMenu_grey3Typography": "Hello",
+    "HamburgerMenu_typography": "Are you sure you want to Sign Out?",
+    "HamburgerMenu_no": "NO",
+    "HamburgerMenu_yes": "YES",
+
+    "Login_h2": "Login",
+    "Login_grey2Typography": "Please login to manage and see more details.",
+    "Login_primaryButton": "login",
+
+    "MenuList_guest1Name": "Bookings",
+    "MenuList_guest2Name": "Account",
+    "MenuList_guest3Name": "Switch to Host",
+    "MenuList_common1Name": "Language",
+    "MenuList_common2Name": "Country",
+    "MenuList_common3Name": "Contact us",
+    "MenuList_common4Name": "Help Center",
+    "MenuList_common5Name": "Blog",
+    "MenuList_common6Name": "Sign out",
+    "MenuList_host1Name": "My Listings",
+    "MenuList_host2Name": "Reservations",
+    "MenuList_host3Name": "Account",
+    "MenuList_host4Name": "Switch to Guest"
+}

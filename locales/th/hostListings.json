@@ -1,0 +1,36 @@
+{
+    "Details_itemDetailName1": "หมายเลขยูนิต",
+    "Details_itemDetailName2": "ชื่อยูนิต",
+    "Details_itemDetailName3": "ยูนิตกว้าง x ยาว x สูง",
+    "Details_itemDetailName4": "ขนาดยูนิต",
+    "Details_itemDetailName5": "จำนวนยูนิตทั้งหมด",
+    "Details_itemDetailName6": "ราคายูนิตต่อเดือน",
+    "Details_itemDetailName7": "คุณสมบัติของยูนิต",
+
+    "EmptyListing_typography1": "สร้างรายการแรกของคุณ",
+    "EmptyListing_typography2": "เพิ่มรายการพื้นที่เก็บของคุณ เพื่อแสดงแก่ผู้เยี่ยมชมที่กำลังมองหาพื้นที่ให้เช่า และสร้างรายได้ให้คุณ",
+    "EmptyListing_button": "เพิ่มรายการพื้นที่",
+
+    "ItemDetail_value": "ดูรายละเอียด",
+
+    "Listing_headingTitle": "การให้เช่า",
+    "Listing_headingSubtitle": "รายการของคุณ",
+    "Listing_listItemTitle": "ไม่ได้ตั้งชื่อ",
+
+    "ListItem_menuItem": "แก้ไข",
+
+    "ListTable_typography": "ไม่พบพื้นที่",
+    "ListTable_tableCell3": "ขนาดยูนิต",
+    "ListTable_tableCell5": "ไม่มีคุณสมบัติ!",
+
+    "ListingDetails_itemsTitle1": "รายการของคุณ",
+    "ListingDetails_itemsTitle2": "รายละเอียดรายการ",
+    "ListingDetails_headingTitle": "รายการ",
+    "ListingDetails_headingSubtitle": "รายละเอียดรายการ",
+    "ListingDetails_cancel": "ยกเลิก",
+    "ListingDetails_edit": "แก้ไข ",
+
+    "SearchListings_placeholder": "ค้นหารายการ...",
+
+    "ComponentsHeader_button": "สร้างรายการ"
+}

@@ -1,0 +1,144 @@
+{
+
+    "Info_primaryTypography": "保存して終了する",
+
+    "Buttons_primaryTypography": "戻る",
+    "Buttons_box": "次へ",
+
+    "FinishListing_typography": "物件リストを完了して収入を得ましょう。",
+    "FinishListing_grey3Typography": "物件リストの変更はいつでも可能です。",
+    "FinishListing_primaryButton": "配信する",
+    "FinishListing_linkTitle1": "施設",
+    "FinishListing_linkTitle2": "所在地",
+    "FinishListing_linkTitle3": "写真",
+    "FinishListing_linkTitle4": "施設名と詳細",
+    "FinishListing_linkTitle5": "寸法",
+
+    "FormAddPhotos_grey3Typography": "スペースの写真を加えてください。",
+    "FormAddPhotos_whiteTypography": "写真をアップする",
+
+    "FormCreateTitle_typography": "施設名を設定してください",
+    "FormCreateTitle_placeholder": "いろは {{country}} トランクルーム",
+    "FormCreateTitle_grey3Typography": "施設名が必要です。",
+
+    "FormDescribePlace_typography": "お客様に施設の詳細情報を提供してください。",
+    "FormDescribePlace_grey3Typography": "詳細情報が必要です。",
+
+    "FloorSelect_grey3Typography": "何階ですか？",
+    "FloorSelect_grey2Typography": "階を選択してください。",
+
+    "PropertyTypeSelect_grey3Typography": "施設タイプを選択してください。",
+    "PropertyTypeSelect_typography": "スペースは様々な形や広さがありますので、最も適切なものを選択してください。",
+    "PropertyTypeSelect_grey2Typography": "地下",
+    "PropertyTypeSelect_containerGrey2Typography": "ひとつ選択してください。",
+    "PropertyTypeSelect_containerMenuItem": "ひとつ選択してください。",
+
+    "Radios_label1": "会社として登録します。",
+    "Radios_label2": "個人オーナーとして登録します。",
+
+    "FormKindOfPlace_grey3Typography1": "どのような施設を提供しますか？",
+    "FormKindOfPlace_grey3Typography2": "会社としてスペースを提供しますか？",
+
+    "OAuthButtons_typography1": "Googleアカウントでで参加",
+    "OAuthButtons_typography2": "Facebookアカウントで参加",
+
+    "FormLogo_typography": "あなたの写真、もしくは会社のロゴをアップしてください。",
+    "FormLogo_whiteTypography": "写真を変える",
+    "FormLogo_grey3Typography": "GoogleもしくはFacebookの写真を使う。",
+
+    "AddSizeOption_grey3Typography": "他の広さの違う部屋を加えますか？",
+    "AddSizeOption_primaryTypography": "面積の選択を加える。",
+
+    "Checkboxes_typography": "設備の詳細",
+    "Checkboxes_customCheckbox1": "防犯カメラ",
+    "Checkboxes_customCheckbox2": "空調設備",
+    "Checkboxes_customCheckbox3": "電子ロック",
+
+    "EditingSizeOption2_error": "名前が必要です。",
+    "EditingSizeOption2_typography": "面積の選択を変更",
+    "EditingSizeOption2_placeholder": "オプション名または識別子",
+    "EditingSizeOption2_whiteTypography": "保存する",
+
+    "EditingCheckboxes_typography": "設備の詳細",
+
+    "EditingInputs_propertyName1": "この広さの部屋はいくつありますか？",
+    "EditingInputs_propertyUnit1": "部屋",
+    "EditingInputs_propertyName2": "月額はいくらですか？",
+
+    "EditingSizes_propertyName1": "幅",
+    "EditingSizes_propertyName2": "奥行",
+    "EditingSizes_propertyName3": "高さ",
+    "EditingSizes_grey3Typography": "総面積",
+
+    "Inputs_grey3Typography1": "この広さの部屋はいくつありますか？",
+    "Inputs_typography": "部屋",
+    "Inputs_grey3Typography2": "月額はいくらですか？",
+
+    "MiniOptions_typography": "面積選択",
+    "MiniOptions_grey3Typography": "サイズオプションは、似たような収納スペースや駐車場でもサイズや価格が異なる場合に便利です。このセクションを使って、サイズオプションの寸法、数量、名前を編集してください。",
+
+    "Actions_grey2Typography": "編集",
+
+    "Size_grey2Typography": "部屋の広さ",
+
+    "Title_typography": "部屋",
+
+    "OneOptionCheckboxes_typography": "部屋の詳細",
+
+    "OneSize_error": "あなたのスペースは広すぎるかもしれません。お客様サポートまでご連絡ください。",
+
+    "OneOption_typography": "部屋の広さ",
+
+    "OneOptionSizes_propertyName1": "幅",
+    "OneOptionSizes_propertyName2": "奥行",
+    "OneOptionSizes_propertyName3": "高さ",
+    "OneOptionSizes_grey3Typography": "総面積",
+
+    "Sizes_grey3Typography1": "幅",
+    "Sizes_grey3Typography2": "奥行",
+    "Sizes_grey3Typography3": "高さ",
+    "Sizes_grey3Typography4": "総面積",
+
+    "FormPhone_grey3Typography": "携帯電話番号を加える",
+
+    "FormAddNumber_typography": "携帯の番号を入力してください。確認メッセージを送信いたします。",
+    "FormAddNumber_primaryTypography": "確認する",
+    "FormAddNumber_grey3Typography": "ユーザー名は電話番号、もしくはメールアドレスをご利用ください。",
+    "FormAddNumber_grey3Typography1": "携帯番号をご確認の上、再入力してください。",
+
+    "FormAddPINInfo_box": "編集",
+    "FormAddPINInfo_grey3Typography": "暗証番号を加える",
+    "FormAddPINInfo_typographyP1": "PINコードをあなたの携帯に送信しました。",
+    "FormAddPINInfo_typographyP2": "1分程お待ちください。",
+
+    "Inputs_body2": "携帯の番号を入力してください。確認メッセージを送信いたします。",
+    "Inputs_grey2Typography": "確認メッセージが届かなかった場合は",
+    "Inputs_primaryTypography": "再度、携帯の番号を入力してください。",
+
+    "FormNumberAdded_typography": "連絡用電話番号が加えられました。",
+    "FormNumberAdded_primaryTypography": "確認",
+
+    "FormPlaceLocated_typography": "所在地はどこですか？",
+    "FormPlaceLocated_grey3Typography1": "現在地を使う",
+    "FormPlaceLocated_grey2Typography1": "あなたの所在地が検出されません。住所を入力してください。",
+    "FormPlaceLocated_grey3Typography2": "国／県",
+    "FormPlaceLocated_label1": "国",
+    "FormPlaceLocated_grey3Typography3": "市",
+    "FormPlaceLocated_label2": "市",
+    "FormPlaceLocated_grey3Typography4": "地区",
+    "FormPlaceLocated_label3": "地区",
+    "FormPlaceLocated_grey3Typography5": "道",
+    "FormPlaceLocated_placeholder": "所在地を検索",
+    "FormPlaceLocated_menuItem": "ローディング中",
+    "FormPlaceLocated_grey2Typography2": "e.g. 4190 Ang Mo Kio Avenue 6",
+    "FormPlaceLocated_grey3Typography6": "部屋番号 (オプション)",
+    "FormPlaceLocated_grey2Typography3": "e.g. # 13-37 Mandalay Towers",
+    "FormPlaceLocated_grey3Typography7": "郵便番号",
+
+    "FormRightPlace_typography": "所在地表記は正しいですか？",
+
+    "FormSiteFeatures_typography": "どのような設備がありますか？",
+    "FormSiteFeatures_grey3Typography": "お客様に利用していただける設備等のみを選択してください。",
+
+    "FormSpace_defaultSpaceName": "私の収納スペース"
+}

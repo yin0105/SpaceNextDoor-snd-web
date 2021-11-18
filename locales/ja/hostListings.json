@@ -1,0 +1,35 @@
+{
+    "Details_itemDetailName1": "部屋ID",
+    "Details_itemDetailName2": "部屋名称",
+    "Details_itemDetailName3": "部屋 幅 x 奥行 x 高さ",
+    "Details_itemDetailName4": "部屋の大きさ",
+    "Details_itemDetailName5": "部屋総数",
+    "Details_itemDetailName6": "月額",
+    "Details_itemDetailName7": "設備",
+
+    "EmptyListing_typography1": "物件一覧を作成する",
+    "EmptyListing_typography2": "スペースをアップしてお客様を見つけて、収入ゲット。",
+    "EmptyListing_button": "スペースをアップする",
+
+    "ItemDetail_value": "評価",
+
+    "Listing_headingTitle": "ホスト",
+    "Listing_headingSubtitle": "物件リスト",
+    "Listing_listItemTitle": "Name no set",
+
+    "ListItem_menuItem": "編集",
+
+    "ListTable_typography": "スペースが見つかりません",
+    "ListTable_tableCell3": "部屋の大きさ",
+    "ListTable_tableCell5": "設備無し",
+    "ListingDetails_itemsTitle1": "物件リスト",
+    "ListingDetails_itemsTitle2": "一覧詳細",
+    "ListingDetails_headingTitle": "物件リスト",
+    "ListingDetails_headingSubtitle": "一覧詳細",
+    "ListingDetails_cancel": "キャンセル",
+    "ListingDetails_edit": "編集",
+
+    "SearchListings_placeholder": "リスト検索",
+
+    "ComponentsHeader_button": "リストを作成"
+}

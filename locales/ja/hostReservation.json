@@ -1,0 +1,63 @@
+{
+
+    "DesktopTabs_placeholder": "予約を検索する",
+    "DesktopTabs_all": "全て",
+    "DesktopTabs_confirmed": "確認済み",
+    "DesktopTabs_completed": "完了済み",
+    "DesktopTabs_cancelled": "キャンセル",
+
+    "Details_listItemsName1": "小計",
+    "Details_listItemsName2": "集荷サービス",
+    "Details_listItemsName3": "保険",
+    "Details_listItemsName4": "保証金",
+    "Details_listItemsName5": "割引",
+    "Details_listItemsName6": "合計",
+    "Details_itemDetailName1": "住所",
+    "Details_itemDetailName2": "部屋名",
+    "Details_itemDetailName3": "部屋面積",
+    "Details_itemDetailName4": "参照",
+    "Details_itemDetailName5": "＿＿から",
+    "Details_itemDetailName6": "＿＿宛",
+    "Details_itemDetailName7": "お客様",
+    "Details_itemDetailName8": "支払い済み額",
+
+    "MobileVersion_placeholder": "予約を検索する",   
+
+    "Modal_headerTitle": "予約をキャンセルする",
+    "Modal_subtitle": "予約をキャンセルしますか？",
+    "Modal_message1": "削除された入力情報は呼び戻しができません。",
+    "Modal_message2": "？？？",
+    "Modal_cancel": "キャンセル",
+    "Modal_confirm": "確認",    
+     
+
+    "Table_noReservation": "予約が見つかりません。",
+    "Table_noReservationMsg": "予約がまだありません。物件リストを登録して収入を得ましょう。",
+    "Table_header1": "予約番号",
+    "Table_header2": "予約状態",
+    "Table_header3": "お客様",
+    "Table_header4": "物件",
+    "Table_header5": "部屋",
+    "Table_header6": "搬入",
+    "Table_header7": "搬出",
+
+    "ReservationDetails_title1": "予約",
+    "ReservationDetails_title2": "ホスト",
+    "ReservationDetails_subtitle1": "予約の詳細",
+    "ReservationDetails_subtitle2": "予約の詳細",
+    "ReservationDetails_itemsTitle1": "予約を管理する",
+    "ReservationDetails_itemsTitle2": "予約の詳細",
+    "ReservationDetails_itemsGuestTitle1": "予約",
+    "ReservationDetails_itemsGuestTitle2": "予約の詳細",    
+
+    "Reservations_title1": "お客様",
+    "Reservations_title2": "ホスト",
+    "Reservations_subtitle": "管理",
+    "Reservations_subtitle1": "予約",
+    "Reservations_subtitle2": "予約", 
+
+    "ComponentsSelect_all": "全て",
+    "ComponentsSelect_confirmed": "確認済み",
+    "ComponentsSelect_completed": "完了済み",
+    "ComponentsSelect_cancelled": "キャンセル済み"
+}

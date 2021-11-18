@@ -1,0 +1,20 @@
+{
+    "BookingStoreErrors_invalidFullName": "氏名が無効です",
+    "BookingStoreErrors_invalidEmail": "電子メールが無効です",
+    "BookingStoreErrors_invalidPhoneNumber": "電話番号が無効です",
+    "BookingStoreErrors_bookingError": "有効な入居日と退去日を選択してください。",
+    "BookingStoreErrors_paymentError": "お支払いの処理中にエラーが発生しました、再度お試しください!",
+
+    "SiteBookingStatus_ACTIVE": "アクティブ",
+    "SiteBookingStatus_ARCHIVED": "保存",
+    "SiteBookingStatus_DRAFT": "下書き",
+    "SiteBookingStatus_IN_ACTIVE": "未使用",
+    "SiteBookingStatus_READY_TO_REVIEW": "内容を確認する",
+    "SiteBookingStatus_REJECTED": "拒否されました。",
+    "SiteBookingStatus_INACTIVE": "未使用",
+    "SiteBookingStatus_CANCELLED": "キャンセル済み",
+    "SiteBookingStatus_COMPLETED": "完了済み",
+    "SiteBookingStatus_CONFIRMED": "確認済み",
+    "SiteBookingStatus_RESERVED": "予約済み",
+    "SiteBookingStatus_TERMINATED": "終了"
+}

@@ -1,0 +1,11 @@
+{ 
+    "Header_menuLinkName1":"リスト一覧",
+    "Header_menuLinkName2":"予約",
+    "Header_button": "リスト一覧を表示",
+
+    "AccountMenu_linkName1": "口座",
+    "AccountMenu_linkName2": "ゲストに変更",
+    "AccountMenu_linkName3": "サインアウト",
+    "AccountMenu_linkName4": "ヘルプ",
+    "AccountMenu_hello": "ようこそ"
+}

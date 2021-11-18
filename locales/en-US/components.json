@@ -1,0 +1,11 @@
+{ 
+    "Header_menuLinkName1":"Listings",
+    "Header_menuLinkName2":"Reservations",
+    "Header_button": "Create Listings",
+
+    "AccountMenu_linkName1": "Account",
+    "AccountMenu_linkName2": "Switch to Guest",
+    "AccountMenu_linkName3": "Sign Out",
+    "AccountMenu_linkName4": "Help",
+    "AccountMenu_hello": "Hello"
+}

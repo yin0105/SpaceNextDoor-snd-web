@@ -1,0 +1,62 @@
+{
+    "development": [
+        {
+            "domain": "dev.spacenextdoor.com",
+            "defaultLocale": "en-US",
+            "locales": ["en-US"],
+            "enable":true
+          },
+          {
+            "domain": "dev.spacenextdoor.co.th",
+            "defaultLocale": "th",
+            "locales": ["th"],
+            "enable":true
+          },
+          {
+            "domain": "dev.spacenextdoor.jp",
+            "defaultLocale": "ja",
+            "locales": ["ja"],
+            "enable":true
+          }
+    ],
+    "staging": [
+          {
+            "domain": "stag.spacenextdoor.co.th",
+            "defaultLocale": "th",
+            "locales": ["th"],
+            "enable": true
+          },
+          {
+            "domain": "stag.spacenextdoor.jp",
+            "defaultLocale": "ja",
+            "locales": ["ja"],
+            "enable": true
+          },
+          {
+            "domain": "stag.spacenextdoor.com",
+            "defaultLocale": "en-US",
+            "locales": ["en-US"],
+            "enable":true
+          }
+        ],
+    "production": [
+          {
+            "domain": "spacenextdoor.co.th",
+            "defaultLocale": "th",
+            "locales": ["th"],
+            "enable":true
+          },
+          {
+            "domain": "spacenextdoor.com",
+            "defaultLocale": "en-US",
+            "locales": ["en-US"],
+            "enable":true
+          },
+          {
+            "domain": "spacenextdoor.jp",
+            "defaultLocale": "ja",
+            "locales": ["ja"],
+            "enable": true
+          }
+        ]
+}

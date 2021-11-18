@@ -1,0 +1,97 @@
+{
+   "Dates_title1": "搬入日",
+   "Dates_desc1": "搬入日を選択してください。",
+   "Dates_title2": "搬出日",
+   "Dates_desc2": "搬出日を選択してください。",
+   "Dates_caption1": "搬入",
+   "Dates_grey2Typography1": "まだ未定",
+   "Dates_caption2": "搬出",
+   "Dates_grey2Typography2": "継続",
+   "Dates_grey2Typography3": "月毎更新",
+
+   "EmptyState_typography1": "該当する物件が見つかりません。",
+   "EmptyState_typography2": "検索内容を修正するか、我々に直接ご連絡いただければ諸々の条件を考慮して比較対象物件を提案させていただきます。",
+   "EmptyState_typography3": "ご希望の条件を満たす物件が見つかりません。",
+   "EmptyState_typography4": "でも心配ご無用。こちらのフォームに必要事項を入力していただければ、我々のチームから24時間以内に連絡します。",
+   "EmptyState_primaryButton": "こちらから登録",
+   "EmptyState_clearFilters": "全ての条件をクリアにする",
+   "EmptyState_clearFiltersTypography":"または、全ての条件をクリアにする",
+
+   "Popup_placeholder": "お求めのエリアは？",
+
+   "RecentSearches_title": "最近の検索",
+
+   "SearchInput_typography": "所在地",
+   "SearchInput_placeholder": "お求めのエリアは？",
+
+   "Search_typography": "検索項目",
+
+   "AveragePrices_typography1": "シンガポールの平均料金",
+   "AveragePrices_typogrpahy2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+
+   "TableHead_cell1": "部屋面積",
+   "TableHead_cell2": "平均料金",
+   "TableHead_cell3": "最低料金",
+
+   "Filter_sort": "距離で並べ替え",
+   "Filter_menuItem1": "10",
+   "Filter_menuItem2": "20",
+   "Filter_menuItem3": "30",
+
+   "Actions_typography": "条件をリセット",
+   "Actions_whiteTypography": "申し込む",
+
+   "FeaturesAmenities_typography": "設備等",
+
+   "Header_typography": "条件 （絞り込み）",
+
+   "MonthlyPriceRange_typography1": "料金",
+   "MonthlyPriceRange_typography2": "月毎料金枠",
+
+   "SizeEstimator_typography1": "必要な広さの概算が要りますか？",
+   "SizeEstimator_typography2": "広さの概算",
+
+   "FiltersDesktop_typography": "条件",
+   "FiltersDesktop_button": "条件をクリアする",
+
+   "SearchHeader_typography1": "あなたにおすすめのユニット",
+   "SearchHeader_typography2": "全国のトランクルーム施設",
+   "SearchHeader_grey2Typography": "最寄りのトランクルームを探す",
+
+   "SiteItem_typography1": "特集",
+   "SiteItem_typography2": "人気物件",
+   "SiteItem_typography3": "全てを見る",
+
+   "ViewOnMap_button": "地図で見る",
+
+   "SearchAutoComplete_placeholder": "路線やエリアから探す",
+   "SearchAutoComplete_typography3": "Search",
+   "SearchAutoComplete_typography4": "Choose Prefecture",
+
+   "Site_promos":"プロモーション有り！",
+   "Site_from":"＿＿から",
+   "Site_month":"月",
+
+   "SitesList_typography":"注目オプション",
+
+   "SearchModule_h1": "＿＿で最良のトランクルーム所在地",
+   "SearchModule_h2": "お得なトランクルーム施設",
+   "SearchModule_in": "in ",
+   "SearchModule_title": "There are {{totalResults}} self-storage facilities available in {{countryName}}",
+
+   "Marker_promos": "プロモーション有り！",
+   "Marker_month": "月",
+   "Marker_from": "＿＿から",
+
+   "SitesMap_alert": "現在の場所にアクセスできません。",
+
+   "SelectPlaces_allDistricts": "All prefectures",
+   "SelectPlaces_typography1": "By Prefectures",
+   "SelectPlaces_typography3": "SEARCH STORAGE",
+   "SelectPlaces_NavHome":"Home",
+   "SelectPlaces_NavPlaces":"Conditions",
+   "SelectPlaces_NavSearch":"Search Results",
+   "SelectPlaces_clearAllLocations":"Clear All Locations"
+
+
+}

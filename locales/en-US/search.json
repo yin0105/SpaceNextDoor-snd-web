@@ -1,0 +1,95 @@
+{
+   "Dates_title1": "Move In Date",
+   "Dates_desc1": "Select your Move In Date",
+   "Dates_title2": "Move Out Date",
+   "Dates_desc2": "Select your Move Out Date",
+   "Dates_caption1": "MOVE IN",
+   "Dates_grey2Typography1": "Not sure yet",
+   "Dates_caption2": "MOVE OUT",
+   "Dates_grey2Typography2": "Ongoing",
+   "Dates_grey2Typography3": "Monthly Ongoing",
+
+   "EmptyState_typography1": "We can’t find any locations that match your search",
+   "EmptyState_typography2": "You can try changing your search, Or contact us to help you compare units based on price, location, size, and more.",
+   "EmptyState_typography3": "We can’t find any storage facilities that match your search",
+   "EmptyState_typography4": "But don’t be worried, please fill this form and our team will reach you out in less than 24 hours",
+   "EmptyState_primaryButton": "SUBMIT HERE",
+   "EmptyState_clearFilters": "Clear all filters",
+   "EmptyState_clearFiltersTypography":"or clear all filters",
+
+   "Popup_placeholder": "Where do you need Space?",
+
+   "RecentSearches_title": "Recent Searches",
+
+   "SearchInput_typography": "LOCATION",
+   "SearchInput_placeholder": "Where do you need Space",
+
+   "Search_typography": "Filter",
+
+   "AveragePrices_typography1": "Average prices in singapore",
+   "AveragePrices_typogrpahy2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+
+   "TableHead_cell1": "Unit Size",
+   "TableHead_cell2": "Average Price",
+   "TableHead_cell3": "Lowest Price",
+
+   "Filter_sort": "Sort by distance",
+   "Filter_menuItem1": "Ten",
+   "Filter_menuItem2": "Twenty",
+   "Filter_menuItem3": "Thirty",
+
+   "Actions_typography": "Reset filters",
+   "Actions_whiteTypography": "Apply",
+
+   "FeaturesAmenities_typography": "Features & amenities",
+
+   "Header_typography": "Filters",
+
+   "MonthlyPriceRange_typography1": "Price",
+   "MonthlyPriceRange_typography2": "Monthly Price Range",
+
+   "SizeEstimator_typography1": "Need help estimating the size you need?",
+   "SizeEstimator_typography2": "Size Estimator",
+
+   "FiltersDesktop_typography": "Filters",
+   "FiltersDesktop_button": "Clear all filters",
+
+   "SearchHeader_typography1": "Storage units in {{countryName}}",
+   "SearchHeader_typography2": "storage facilities {{countryName}}",
+   "SearchHeader_grey2Typography": "Find self-storage near you",
+
+   "SiteItem_typography1": "FEATURED",
+   "SiteItem_typography2": "BEST SELLER",
+   "SiteItem_typography3": "VIEW ALL",
+
+   "ViewOnMap_button": "VIEW ON MAP",
+
+   "SearchAutoComplete_placeholder": "Search from Train station, district or place",
+   "SearchAutoComplete_typography3": "Search",
+   "SearchAutoComplete_typography4": "Choose District",
+
+   "Site_promos":"3 PROMOTIONS AVAILABLE!",
+   "Site_from":"From",
+   "Site_month":"month",
+
+   "SitesList_typography":"Great options for you:",
+
+   "SearchModule_h1": "Best self storage locations in",
+   "SearchModule_h2": "affordable storage facilities ",
+   "SearchModule_in": "in ",
+   "SearchModule_title": "There are {{totalResults}} self-storage facilities available in {{countryName}}",
+
+   "Marker_promos": "3 PROMOTIONS AVAILABLE!",
+   "Marker_month": "month",
+   "Marker_from": "From",
+
+   "SitesMap_alert": "Unable to access current location",
+
+   "SelectPlaces_allDistricts": "All districts",
+   "SelectPlaces_typography1": "By Districts",
+   "SelectPlaces_typography3": "SEARCH STORAGE",
+   "SelectPlaces_NavHome":"Home",
+   "SelectPlaces_NavPlaces":"Conditions",
+   "SelectPlaces_NavSearch":"Search Results",
+   "SelectPlaces_clearAllLocations":"Clear All Locations"
+}

@@ -1,0 +1,143 @@
+{
+    "Info_primaryTypography": "บันทึกและออกจากหน้านี้",
+
+    "Buttons_primaryTypography": "กลับไป",
+    "Buttons_box": "ต่อไป",
+
+    "FinishListing_typography": "ทำรายการของคุณให้เสร็จ เพื่อเริ่มสร้างรายได้",
+    "FinishListing_grey3Typography": "คุณสามารถแก้ไขรายการของคุณได้ตลอดเวลา หลังจากที่คุณแก้ไข",
+    "FinishListing_primaryButton": "เผยแพร่",
+    "FinishListing_linkTitle1": "สถานที่",
+    "FinishListing_linkTitle2": "ที่ตั้ง",
+    "FinishListing_linkTitle3": "รูปภาพ",
+    "FinishListing_linkTitle4": "คำอธิบายและชื่อ",
+    "FinishListing_linkTitle5": "คำอธิบายและชื่อ",
+
+    "FormAddPhotos_grey3Typography": "เพิ่มรูปภาพพื้นที่เก็บของคุณ",
+    "FormAddPhotos_whiteTypography": "อัปโหลดรูปภาพ",
+
+    "FormCreateTitle_typography": "ตั้งชื่อพื้นที่เก็บของ",
+    "FormCreateTitle_placeholder": "พื้นที่เก็บของในกรุงเทพฯสุดคูล",
+    "FormCreateTitle_grey3Typography": "ต้องระบุชื่อด้วย!",
+
+    "FormDescribePlace_typography": "อธิบายรายละเอียดสถานที่ของคุณ สำหรับลูกค้าที่สนใจ",
+    "FormDescribePlace_grey3Typography": "ต้องระบุรายละเอียด!",
+
+    "FloorSelect_grey3Typography": "พื้นที่เก็บของอยู่ชั้นที่เท่าไหร่",
+    "FloorSelect_grey2Typography": "เลือกชั้น",
+
+    "PropertyTypeSelect_grey3Typography": "เลือกประเภททรัพย์สิน",
+    "PropertyTypeSelect_typography": "พื้นที่เก็บของมีหลายรูปแบบและขนาด ดังนั้นโปรดเลือกพื้นที่ที่ตรงกับของคุณมากที่สุด",
+    "PropertyTypeSelect_grey2Typography": "ชั้นใต้ดิน",
+    "PropertyTypeSelect_containerGrey2Typography": "เลือกหนึ่งอย่าง",
+    "PropertyTypeSelect_containerMenuItem": "เลือกหนึ่งอย่าง",
+
+    "Radios_label1": "ฉันเป็นผู้ให้เช่าในฐานะเจ้าของธุรกิจจดทะเบียน",
+    "Radios_label2": "ฉันเป็นผู้ให้เช่าในฐานะบุคคลธรรมดา หรือเจ้าของคนเดียว",
+
+    "FormKindOfPlace_grey3Typography1": "คุณมีรายชื่อสถานที่ประเภทใด",
+    "FormKindOfPlace_grey3Typography2": "คุณมีรายการใน Space Next Door โดยเป็นส่วนหนึ่งของบริษัทหรือไม่",
+
+    "OAuthButtons_typography1": "ลงชื่อเข้าใช้ด้วย Google",
+    "OAuthButtons_typography2": "ลงชื่อเข้าใช้ด้วย Facebook",
+
+    "FormLogo_typography": "เพิ่มรูปภาพหรือโลโก้บริษัทของคุณ",
+    "FormLogo_whiteTypography": "เปลี่ยนรูปภาพ",
+    "FormLogo_grey3Typography": "ใช้ภาพของคุณจาก Google หรือ Facebook",
+
+    "AddSizeOption_grey3Typography": "คุณต้องการเพิ่มยูนิตอื่นที่มีขนาดแตกต่างกันหรือไม่?",
+    "AddSizeOption_primaryTypography": "เพิ่มตัวเลือกขนาด",
+
+    "Checkboxes_typography": "ตรวจสอบว่ายูนิตนี้มีอะไรบ้าง:",
+    "Checkboxes_customCheckbox1": "กล้องวงจรปิดส่วนตัว",
+    "Checkboxes_customCheckbox2": "เครื่องปรับอากาศ",
+    "Checkboxes_customCheckbox3": "ระบบล็อคอัจฉริยะ",
+
+    "EditingSizeOption2_error": "ต้องใส่ชื่อ",
+    "EditingSizeOption2_typography": "การแก้ไขตัวเลือกขนาด",
+    "EditingSizeOption2_placeholder": "ชื่อตัวเลือกหรือตัวระบุ",
+    "EditingSizeOption2_whiteTypography": "บันทึก",
+
+    "EditingCheckboxes_typography": "ตรวจสอบว่ายูนิตนี้มีอะไรบ้าง:",
+
+    "EditingInputs_propertyName1": "ยูนิตขนาดเท่านี้มีจำนวนเท่าไหร่",
+    "EditingInputs_propertyUnit1": "ยูนิต",
+    "EditingInputs_propertyName2": "ราคาต่อเดือนที่กำหนดไว้สำหรับยูนิตนี้คือเท่าไหร่",
+
+    "EditingSizes_propertyName1": "ความกว้าง",
+    "EditingSizes_propertyName2": "ความยาว",
+    "EditingSizes_propertyName3": "ความสูง",
+    "EditingSizes_grey3Typography": "พื้นที่รวมทั้งหมด",
+
+    "Inputs_grey3Typography1": "คุณมีขนาดเท่านี้จำนวนกี่ยูนิต",
+    "Inputs_typography": "ยูนิต",
+    "Inputs_grey3Typography2": "ราคาต่อเดือนที่กำหนดไว้สำหรับยูนิตนี้คือเท่าไหร่",
+
+    "MiniOptions_typography": "ตัวเลือกขนาด",
+    "MiniOptions_grey3Typography": "ตัวเลือกขนาดจะมีประโยชน์ต่อเมื่อคุณมีพื้นที่เก็บของหรือที่จอดรถที่ค่อนข้างคล้ายกัน แต่มีขนาดและราคาต่างกัน ให้ใช้ส่วนนี้เพื่อแก้ไขการวัด ปริมาณ และชื่อของตัวเลือกขนาดของคุณ",
+
+    "Actions_grey2Typography": "แก้ไข",
+
+    "Size_grey2Typography": "ขนาดของยูนิต",
+
+    "Title_typography": "ยูนิต",
+
+    "OneOptionCheckboxes_typography": "ตรวจสอบว่ายูนิตนี้มีอะไรบ้าง:",
+
+    "OneSize_error": "พื้นที่ของคุณดูมีขนาดใหญ่เกินไป โปรดติดต่อฝ่ายบริการลูกค้าของเราเพื่อขอความช่วยเหลือ",
+
+    "OneOption_typography": "การวัดพื้นที่ของคุณ",
+
+    "OneOptionSizes_propertyName1": "กว้าง",
+    "OneOptionSizes_propertyName2": "ยาว",
+    "OneOptionSizes_propertyName3": "สูง",
+    "OneOptionSizes_grey3Typography": "พื้นที่รวมทั้งหมด",
+
+    "Sizes_grey3Typography1": "ความกว้าง",
+    "Sizes_grey3Typography2": "ความยาว",
+    "Sizes_grey3Typography3": "ความสูง",
+    "Sizes_grey3Typography4": "พื้นที่ทั้งหมด",
+
+    "FormPhone_grey3Typography": "เพิ่มเบอร์โทรศัพท์ของคุณ",
+
+    "FormAddNumber_typography": "โปรดเพิ่มเบอร์โทรศัพท์ของคุณ และทางเราจะส่ง SMS ไปให้เพื่อยืนยัน",
+    "FormAddNumber_primaryTypography": "ตรวจสอบ",
+    "FormAddNumber_grey3Typography": "ชื่อผู้ใช้สามารถเป็นเบอร์โทรศัพท์หรืออีเมลได้!",
+    "FormAddNumber_grey3Typography1": "กรุณากรอกเบอร์โทรศัพท์ที่ถูกต้อง",
+
+    "FormAddPINInfo_box": "แก้ไข",
+    "FormAddPINInfo_grey3Typography": "แก้ไขเพิ่มรหัส PIN ของคุณ",
+    "FormAddPINInfo_typographyP1": "เราเพิ่งส่งรหัส PIN ไปยังเบอร์โทรศัพท์ของคุณ",
+    "FormAddPINInfo_typographyP2": "อาจใช้เวลาประมาณหนึ่งนาที",
+
+    "Inputs_body2": "โปรดเพิ่มเบอร์โทรศัพท์ของคุณ และทางเราจะส่ง SMS ไปให้เพื่อยืนยัน",
+    "Inputs_grey2Typography": "คุณไม่ได้รับข้อความใช่หรือไม่",
+    "Inputs_primaryTypography": "โปรดส่งอีกครั้ง",
+
+    "FormNumberAdded_typography": "เพิ่มเบอร์โทรศัพท์ติดต่อแล้ว",
+    "FormNumberAdded_primaryTypography": "ตรวจสอบแล้ว",
+
+    "FormPlaceLocated_typography": "สถานที่ของคุณอยู่ที่ไหน",
+    "FormPlaceLocated_grey3Typography1": "ใช้ที่ตั้งปัจจุบัน",
+    "FormPlaceLocated_grey2Typography1": "เราตรวจไม่พบตำแหน่งของคุณ โปรดลองอีกครั้งหรือป้อนที่อยู่ของคุณ",
+    "FormPlaceLocated_grey3Typography2": "ประเทศ / ภูมิภาค",
+    "FormPlaceLocated_label1": "ประเทศ",
+    "FormPlaceLocated_grey3Typography3": "เมือง",
+    "FormPlaceLocated_label2": "เมือง",
+    "FormPlaceLocated_grey3Typography4": "เขต",
+    "FormPlaceLocated_label3": "เขต",
+    "FormPlaceLocated_grey3Typography5": "ถนน",
+    "FormPlaceLocated_placeholder": "ค้นหาที่ตั้ง",
+    "FormPlaceLocated_menuItem": "กำลังโหลด",
+    "FormPlaceLocated_grey2Typography2": "4190 อังโมเกียว อเวนิว 6",
+    "FormPlaceLocated_grey3Typography6": "อาคาร (ไม่บังคับ)",
+    "FormPlaceLocated_grey2Typography3": "13-37 มัณฑะเลย์ทาวเวอร์",
+    "FormPlaceLocated_grey3Typography7": "รหัสไปรษณีย์",
+
+    "FormRightPlace_typography": "หมุดอยู่ในตำแหน่งที่ถูกต้องหรือไม่",
+
+    "FormSiteFeatures_typography": "พื้นที่เก็บของมีคุณสมบัติอะไรบ้าง",
+    "FormSiteFeatures_grey3Typography": "เลือกเฉพาะคุณสมบัติที่ผู้เยี่ยมชมสามารถใช้หรือได้รับประโยชน์",
+
+    "FormSpace_defaultSpaceName": "พื้นที่เก็บข้อมูลของฉัน"
+}

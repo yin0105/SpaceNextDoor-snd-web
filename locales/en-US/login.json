@@ -1,0 +1,40 @@
+{
+    "Login_typography1": "Login",
+    "Login_typography2": "Email",
+    "Login_typography3": "Phone Number",
+   
+    "AddPIN_grey2Typography": "Didn't you receive the message?, please",
+    "AddPIN_primaryTypography": "send it again.",
+    "AddPIN_box": "VERIFY",
+   
+    "Info_primaryTypography": "Edit",
+    "Info_grey3Typography": "Add your PIN code",
+    "Info_descTextP1": "We have just sent you a PIN code to your",
+    "Info_type1": "email",
+    "Info_type2": "phone number",
+    "Info_descTextP2": ". It can take up to a minute.",
+   
+    "ByEmail_grey3Typography": "Add your email",
+   
+    "AddEmail_error": "Please enter your email",
+    "AddEmail_termError": "Please agree to terms",
+    "AddEmail_typography1": "Please add your email and we will send you a SMS to verify it.",
+    "AddEmail_placeholder": "Email",
+    "AddEmail_typography2": "By signing in, I agree to",
+    "AddEmail_link1": "Terms of Use",
+    "AddEmail_and": "and",
+    "AddEmail_link2": "Privacy Policy",
+    "AddEmail_box": "LOGIN",
+   
+    "ByPhone_grey3Typography": "Add your mobile number",
+   
+    "AddNumber_error": "Please enter your phone number",
+    "AddNumber_termError": "Please agree to terms",
+    "AddNumber_typography1": "Please add your phone number and we will send you a SMS to verify it.",
+    "AddNumber_typography2": "By signing in, I agree to Terms of Use and Privacy Policy.",
+    "AddNumber_box": "LOGIN",
+   
+    "Footer_typography1": "Or continue with",
+    "Footer_typography2": "Google",
+    "Footer_typography3": "Facebook"
+}

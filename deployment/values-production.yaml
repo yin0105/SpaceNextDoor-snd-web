@@ -1,0 +1,45 @@
+nodejs:
+  replicaCount: 2
+  nameOverride: prod-space-next-door
+  imagePullSecrets:
+    name: sndregistry
+  image:
+    repository: 414928843086.dkr.ecr.ap-southeast-1.amazonaws.com/space-next-door
+    pullPolicy: Always
+  containerPorts:
+    - 3000
+  env:
+    - name: NODE_ENV
+      value: production
+    - name: APP_ENV
+      value: production
+    - name: HOST
+      value: 0.0.0.0
+    - name: PORT
+      value: 3000
+    - name: LOGGER_LEVEL
+      value: "error,log,warn,debug,verbose"
+    - name: REACT_APP_ELASTIC_SEARCH_URL
+      valueFrom:
+        secretKeyRef:
+          name: site-stock-service
+          key: ES_SERVER_STR
+  workingDir: /var/source
+  resources:
+    limits:
+      cpu: 800m
+      memory: 1200Mi
+    requests:
+      cpu: 400m
+      memory: 600Mi
+  healthCheck:
+    httpGet:
+      path: /api/healthcheck
+      port: 3000
+  type: ClusterIP
+  default:
+    ports:
+      - name: prod-space-next-door-http
+        externalPort: 80
+        internalPort: 3000
+        protocol: TCP

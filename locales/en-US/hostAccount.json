@@ -1,0 +1,49 @@
+{
+
+    "Containers_title": "Account",
+
+    "AccountDetails_personal": "Personal Details",
+    "AccountDetails_login": "Login Details",
+    "AccountDetails_payment": "Payment Details",
+    
+    "Button_delete": "Delete account",
+    
+    "LoginDetails_email": "E-mail Address",    
+    "LoginDetails_status": "Edit",
+    
+    "GuestDetails_edit":"Edit",
+    "LoginDetails_phone": "Phone number",
+
+    
+    "HostDetails_account": "Account number",
+    "HostDetails_bank": "Bank name",
+    "HostDetails_accountHolder": "Bank account holder name",
+    "HostDetails_status": "Edit",
+    
+    "HostForm_label1": "Account number",
+    "HostForm_label2": "Bank name",
+    "HostForm_label3": "Bank account holder name",
+    "HostForm_saveButton": "Save",
+    "HostForm_whiteButton": "Cancel",
+
+    "Select_placeholder": "Select Bank",
+    "Select_menuItem": "No Items Found!",
+
+    "PersonalDetails_title": "Full name",
+    "PersonalDetails_status": "Edit",
+
+    "GuestForm_firstName": "First name",
+    "GuestForm_lastName": "Last name",
+    "GuestForm_personal_successMessage": "You have modified your name",
+    "GuestForm_personal_errorMessage":"First name and Last name are required",
+
+    "GuestForm_email":"E-mail Address", 
+    "GuestForm_logindetails_successMessage": "You have modified your email",
+    "GuestForm_payment_successMessage": "You have modified your payment method successfully!",
+    "GuestForm_successMessage": "You have successfully updated your payment method!",
+    
+    "GuestForm_saveButton": "save",
+    "GuestForm_whiteButton": "Cancel"
+
+   
+}

@@ -1,0 +1,24 @@
+{
+    "400_title" : "Bad Request",
+    "400_message" : "Sorry, your browser sent an invalid request. Please go back to homepage.",
+
+    "401_title" : "Unauthorized",
+    "401_message" : "You're not authorized to access this site.",
+
+    "403_title" : "Forbidden",
+    "403_message" : "You don't permission to access this page.",
+
+    "404_title" : "Page Not Found",
+    "404_message": "Sorry, the page you requested was not found.",
+
+    "408_title" : "Request Time-Out",
+    "408_message" : "Your browser didn't send a complete request in time.",
+
+    "500_title" : "Internal Server Error",
+    "500_message" : "Sorry, something went wrong. We apologize and are fixing the problem. Please be patient or try again later.",
+
+    "503_title" : "Service Unavailable",
+    "503_message" : "The server is temporarily busy, try again later.",
+
+    "Error_button": "BACK TO HOME"
+}

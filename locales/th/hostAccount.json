@@ -1,0 +1,45 @@
+{
+    "AccountDetails_personal": "ข้อมูลส่วนตัว",
+    "AccountDetails_login": "รายละเอียดการเข้าสู่ระบบ",
+    "AccountDetails_payment": "รายละเอียดการจ่ายเงิน",
+
+    "Button_delete": "ลบบัญชี",
+
+    "LoginDetails_email": "ที่อยู่อีเมล",
+    "LoginDetails_phone": "หมายเลขโทรศัพท์",
+    "LoginDetails_status": "แก้ไข",
+
+    "HostDetails_account": "หมายเลขบัญชี",
+    "HostDetails_bank": "ชื่อธนาคาร",
+    "HostDetails_accountHolder": "ชื่อเจ้าของบัญชี",
+    "HostDetails_status": "แก้ไข",
+
+    "HostForm_label1": "หมายเลขบัญชี",
+    "HostForm_label2": "ชื่อธนาคาร",
+    "HostForm_label3": "ชื่อเจ้าของบัญชี",
+    "HostForm_saveButton": "บันทึก",
+    "HostForm_whiteButton": "ยกเลิก",
+
+    "Select_placeholder": "เลือกธนาคาร",
+    "Select_menuItem": "ไม่พบรายการ!",
+
+    "PersonalDetails_title": "ชื่อเต็ม",
+    "PersonalDetails_status": "แก้ไข",
+
+    "GuestDetails_edit":"แก้ไข",
+      
+    "GuestForm_email":"ที่อยู่อีเมล", 
+    "GuestForm_payment_successMessage": "支払い方法の変更完了",
+    "GuestForm_firstName": "ชื่อ",
+    "GuestForm_lastName": "นามสกุล",
+    "GuestForm_personal_successMessage": "คุณได้เปลี่ยนชื่อแล้ว",
+    "GuestForm_personal_errorMessage":"จำเป็นต้องใส่ชื่อ-นามสกลุ",
+    "GuestForm_logindetails_successMessage": "คุณได้เปลี่ยนอีเมลแล้ว",
+
+    "GuestForm_saveButton": "บันทึก",
+    "GuestForm_whiteButton": "ยกเลิก",
+    "GuestForm_successMessage": "คุณได้แก้ไขวิธีการชำระเงินสำเร็จแล้ว!",
+    
+
+    "Containers_title": "บัญชี"
+}

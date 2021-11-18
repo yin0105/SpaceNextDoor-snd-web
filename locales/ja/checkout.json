@@ -1,0 +1,222 @@
+{
+    "BuildingDetails_span":"月契約",
+    "BuildingDetails_typography1": "搬入",
+    "BuildingDetails_typography2": "退去",
+    "BuildingDetails_typography3": "詳細",
+    "BuildingDetails_typography4": "ピックアップ時間",
+    "BuildingDetails_typography5": "シェアスペース",
+    "BuildingDetails_typography6": "保険プラン",
+    "BuildingDetails_typography7": "まで",
+    "BuildingDetails_typography8": "毎月",
+    "BuildingDetails_typography9": "予約コード",
+    "BuildingDetails_to": "宛先",
+    "BuildingDetails_from": "差出人",
+    "BuildingDetails_weeks": "週",
+    "BuildingDetails_guest": "ゲスト",
+    "BuildingDetails_autoRenewal": "自動更新",
+    "BuildingDetails_perWeek": "毎週",
+    "BuildingDetails_fullAddress": "住所",
+    "BuildingDetails_review": "評価",
+    "BuildingDetails_unitDetails": "スペース詳細",
+    "BuildingDetails_paymentDetail": "支払い情報",
+    "BuildingDetails_paymentMethod": "支払い方法",
+    "BuildingDetails_cardType": "クレジットカードタイプ",
+    "BuildingDetails_cardNumber": "クレジットカード番号",
+    "BuildingDetails_seeInvoice": "請求書参照",
+    "BuildingDetails_bookAgain": "再予約",
+    "BuildingDetails_paymentHistory": "支払い履歴",
+    "BuildingDetails_sizeUnits": "広さ",
+    "BuildingDetails_subtotal": "小計",
+    "BuildingDetails_pickUpService": "ピックアップサービス",
+    "BuildingDetails_insurance": "保険",
+    "BuildingDetails_total": "合計",
+    "BuildingDetails_unitSize": "広さ",
+    "BuildingDetails_unitName": "部屋名",
+    "BuildingDetails_unitNumber": "部屋番号",
+    "BuildingDetails_sizeWithAC": "{{size}} ＿＿m² 空調設備付き",
+    "BuildingDetails_unassigned": "空き",
+    "BuildingDetails_bookingStatus": "支払い済み",
+    "BuildingDetails_insuranceCover": "保険",
+    "BuildingDetails_essentialUpTo": "限度額",
+
+    "Header_typography1": "予約確認済み",
+    "Header_typography2": "予約コード",
+
+    "PaymentSummary_typography1": "支払い履歴",
+    "PaymentSummary_bookingStatus": "支払い済み",
+    "PaymentSummary_typography2": "小計",
+    "PaymentSummary_typography3": "プロモーション",
+    "PaymentSummary_typography4": "保証金",
+    "PaymentSummary_typography5": "追加オプション",
+    "PaymentSummary_typography6": "保険",
+    "PaymentSummary_typography7": "合計",
+    "PaymentSummary_typography8": "月額表示",
+    "PaymentSummary_typography9": "支払い方法",
+    "PaymentSummary_typography10SG": "See Tax Invoice",
+    "PaymentSummary_typography10": "請求書参照",
+    "PaymentSummary_typography11": "税金",
+
+    "ConfirmButton_button": "確認して支払う",
+
+    "Buttons_continue": "次に進む",
+    "Buttons_acceptAndPay": "承諾して支払う",
+
+    "AutoRenewal_grey3Typography1": "自動更新",
+    "AutoRenewal_grey3Typography2": "次の自動更新予定日",
+
+    "BodyText_grey3Typography": "自動更新の解約を確認しますか？",
+    "BodyText_grey2Typography": "退去日を選んで最終支払いを確認",
+
+    "AutoRenewalButtons_grey2Typography": "キャンセル",
+    "AutoRenewalButtons_whiteTypography": "確認",
+
+    "HeaderText_grey3Typography": "自動更新を解除する",
+
+    "ScheduleTime_grey3Typography": "時間を予約",
+
+    "Dates_title1": "搬入",
+    "Dates_desc1": "搬入日を選択",
+    "Dates_title2": "退去",
+    "Dates_desc2": "退去日を選択",
+    "Dates_grey2Typography": "月契約",
+
+    "DatesModal_grey2Typography": "日付クリア",
+    "DatesModal_whiteTypography": "確認する",
+    "DatesModal_availability": "選択されたユニットは＿＿まで利用可能",
+
+    "YourDetail_grey3Typography": "あなたの情報",
+
+    "PersonalInfoCard_title1": "氏名",
+    "PersonalInfoCard_label1": "氏名",
+    "PersonalInfoCard_title2": "メール",
+    "PersonalInfoCard_label2": "メールアドレス",
+    "PersonalInfoCard_title3": "電話番号",
+
+    "FormBookingDetails_progressLayoutTitle": "予約詳細",
+    "FormBookingDetails_progressLayoutBtnText": "この部屋を予約",
+    "FormBookingDetails_dataTitle1": "搬入",
+    "FormBookingDetails_dataTitle2": "搬出",
+    "FormBookingDetails_dataTitle3": "自動更新",
+    "FormBookingDetails_dataTitle4": "氏名",
+    "FormBookingDetails_dataTitle5": "メール",
+    "FormBookingDetails_dataTitle6": "電話番号",
+    "FormBookingDetails_errorCreateBooking": "現在よやく受付が出来ません。再度試みてください。",
+
+    "FormInsurancePlan_progressLayoutTitle": "保険プラン",
+    "FormInsurancePlan_titleP1": "エッセンシャルプラン ＿＿円までの保証 {{currencySign}}{{coveredAmount}} {{currencySign}}{{pricePerDay}} 日割",
+    "FormInsurancePlan_titleP2": "保険無し",
+
+    "InsurancePlanHeader_grey2Typography": "火災、落雷、extraneous perils被害補償用月契約保険",
+
+    "OneVariant_primaryTypography": "人気",
+    "OneVariant_grey3Typography1": "＿＿まで",
+    "OneVariant_grey2Typography1": "保険保障",
+    "OneVariant_grey2Typography2": "月毎",
+    "OneVariant_grey3Typography2": "興味があります。",
+
+    "FormPaymentMethod_paymentError": "？",
+    "FormPaymentMethod_title": "支払い方法",
+    "FormPaymentMethod_btnText": "了承して支払う",
+
+    "CheckBox_label": "請求先を集荷住所と同じにする",
+
+    "FormPickUpServices_title1": "サービス内容",
+    "FormPickUpServices_title2": "集荷住所",
+    "FormPickUpServices_title3": "集荷時間",
+    "FormPickUpServices_pickupDetails": "集荷住所",
+    "FormPickUpServices_title4": "集荷サービス",
+    "FormPickUpServices_subtitle4": "集荷サービスは必要ですか？",
+    "FormPickUpServices_title5": "荷造り集荷サービス",
+    "FormPickUpServices_selfPickup": "セルフ取り出し",
+
+    "ChooseYourService_serviceTitle1": "はい、必要です。",
+    "ChooseYourService_serviceTitle2": "いいえ、自分でやります。",
+    "ChooseYourService_serviceDesc": "自分で搬入する",
+
+    "Service_typography1": "最も便利",
+    "Service_typography2": "＿＿円から",
+    "Service_typography3": "地図で見る",
+    "Service_typography4": "おすすめ",
+
+    "YourCollectionDetail_grey3Typography1": "集荷サービス詳細",
+    "YourCollectionDetail_grey3Typography2": "住所",
+    "YourCollectionDetail_placeholder": "住所入力",
+    "YourCollectionDetail_grey3Typography3": "ピックアップ時間",
+    "YourCollectionDetail_menuItem": "画面呼び込み中",
+    "YourCollectionDetail_grey3Typography4": "はい、荷物運びを手伝ってほしいです。",
+    "YourCollectionDetail_grey3Typography5": "いいえ、自分で運びます。",
+    "YourCollectionDetail_grey3TypographyTitle": "荷物運びのお手伝いは必要ですか？",
+    "YourCollectionDetail_grey3TypographySubtitle": "引越し業者にご自宅からシェアスペースに荷物を運んでもらう。",
+
+    "ButtonConfirm_whiteTypography": "承諾する",
+    "ButtonConfirm_alert": "場所を選んでから次へ進んでください。",
+
+    "InputCurrentLocation_placeholder": "現在地",
+    "InputCurrentLocation_menuItem": "画面呼び込み中",
+
+    "DesktopVersion_grey3Typography": "あなたの現在地を入力してください。",
+
+    "MobileVersion_text": "あなたの現在地を入力してください。",
+
+    "ProgressLayout_grey2Typography1": "予約は15分間有効です。それまでにお支払いの完了をお願い致します。",
+    "ProgressLayout_grey2Typography2": "予約を確定する前にプロモーションを加えてください。",
+    "ProgressLayout_noServices": "いいえ、手伝いは必要ありません。",
+
+    "SiteAgreement_typography1": "承諾ボタンをクリックして支払いを済ませることにより、次項に同意する。",
+    "SiteAgreement_typography2": "トランクルーム契約",
+
+    "PriceInfo_title1": "月毎小計",
+    "PriceInfo_title2": "保証金",
+    "PriceInfo_title3": "プロモーション",
+    "PriceInfo_title4": "プロモーションコード",
+    "PriceInfo_title5": "追加オプション",
+    "PriceInfo_title6": "月毎保険",
+
+    "Total_grey3Typography": "合計",
+
+    "Promotions_grey3Typography": "プロモーション",
+    "Promotions_error": "条件を満たしていないため、プロモーションが適応されません。",
+    "Promotions_label": "いいえ、プロモーションは結構です。",
+    "Promotions_promoError": "Promo code isn't valid or expired",
+
+    "PromoCode_grey3Typography": "プロモーションコードがありますか？",
+    "PromoCode_placeholder": "プロモーションコード",
+    "PromoCode_whiteTypography1": "申請",
+    "PromoCode_whiteTypography2": "取り消し",
+
+    "SessionExpiredPopup_typography": "タイムアウト",
+    "SessionExpiredPopup_grey3Typography": "予約セッションが時間切れしました。",
+    "SessionExpiredPopup_grey2Typography": "時間内に支払いがされませんでした。再度の予約をお願い致します。",
+
+    "SessionExpiredButtons_whiteTypography": "再度お試しください。",
+
+    "AffiliatePopup_typography": "申し訳ございません。こちらのトランクルームはこちらのウェブサイトからはお申込みが出来ません。",
+    "AffiliatePopup_grey3Typography": "お客様の予約はこちらのサイトからはお申し込みが出来ません。",
+    "AffiliatePopup_grey2Typography": "こちらのトランクルームを予約できるサイトに転送いたします。次のボタンをクリックしてください。",
+    "AffiliatePopup_Mobilegrey2Typography": "あなたの予約は、ここでチェックアウトすることができません。このユニットを予約できるWebサイトにリダイレクトします。下のボタンをクリックしてください。",
+
+    "AffiliatePopup_whiteTypography": "精算する",
+
+    "Timer_typography": "残り予約完了制限時間",
+
+    "Checkout_grey3Typography": "決済",
+
+    "UseSpaceAvailabilityToast_alert": "指定日時に空きスペースが見つかりません。",
+
+    "CheckoutPage_text": "決済",
+
+    "PaymentSchedule_label":"支払い予定",
+    "PaymentSchedule_month":"月毎更新",
+    "PaymentSchedule_onGoing":"継続",
+    "PaymentSchedule_typography": "支払い予定を確認する。",
+
+    "PaymentScheduleHeaderText_grey3Typography": "お客様の支払いスケジュール",
+    "PaymentScheduleHeaderText_grey2Typography": "本キャンペーン適用後のお支払いスケジュールをご確認ください。",
+
+    "PaymentProcessing_typography1": "決済中",
+    "PaymentProcessing_typography2": "只今決済中です。ページ更新をせずにしばらくお待ちください。",
+
+    "DatePickerPopup_grey2Typography": "日付をクリア",
+    "DatePickerPopup_whiteTypography": "確認する"
+
+}

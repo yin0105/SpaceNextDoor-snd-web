@@ -1,0 +1,30 @@
+{
+    "Header_typography1": "คำนวณขนาดที่คุณต้องการ",
+    "Header_typography2": "เลือกตัวเลือกด้านล่าง แล้วเราจะค้นหาพื้นที่ที่ตรงกับความต้องการของคุณ",
+
+    "StandardBox_typography1": "กล่องขนาดมาตรฐาน",
+    "StandardBox_typography2": "ขนาดกลาง ยาว51 X กว้าง41 X สูง41 ซม.",
+
+    "CustomBox_typography1": "กล่องของฉัน",
+    "CustomBox_typography2": "กว้าง",
+    "CustomBox_typography3": "สูง",
+    "CustomBox_typography4": "ยาว",
+
+    "Step1_typography1": "คุณต้องการกล่องประเภทใด?",
+    "Step1_button1": "ยกเลิก",
+    "Step1_button2": "ไปต่อ",
+
+    "Step2_typography1": "คุณต้องการกล่องจำนวนเท่าไร?",
+    "Step2_typography2": "โปรดกรอกจำนวนกล่องเพื่อคำนวณขนาดพื้นที่",
+    "Step2_typography3": "กล่อง",
+    "Step2_button1": "ย้อนกลับ",
+    "Step2_button2": "คำนวณขนาด",
+
+    "Step3_typography1": "คุณต้องการ",
+    "Step3_typography2": "กล่องขนาดมาตรฐาน",
+    "Step3_typography3": "กล่องของตัวเอง",
+    "Step3_typography4": "ขนาดห้องเก็บของ",
+    "Step3_button1": "ย้อนกลับ",
+    "Step3_button2": "ค้นหาห้องเก็บของ"
+
+}

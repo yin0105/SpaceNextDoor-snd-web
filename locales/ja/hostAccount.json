@@ -1,0 +1,48 @@
+{
+
+    "AccountDetails_personal": "個人情報",
+    "AccountDetails_login": "ログイン情報",
+    "AccountDetails_payment": "支払い情報",
+
+    "Button_delete": "口座削除 （アカウント削除）",
+
+    "LoginDetails_email": "メールアドレス",
+    "LoginDetails_phone": "電話番号",
+    "LoginDetails_status": "編集",
+
+    "GuestDetails_edit":"編集",
+
+
+
+    "HostDetails_account": "口座番号",
+    "HostDetails_bank": "銀行名",
+    "HostDetails_accountHolder": "口座名義",
+    "HostDetails_status": "編集",
+
+    "HostForm_label1": "口座番号",
+    "HostForm_label2": "銀行名",
+    "HostForm_label3": "口座名義",
+    "HostForm_saveButton": "保存",
+    "HostForm_whiteButton": "キャンセル",
+
+    "Select_placeholder": "銀行を選択",
+    "Select_menuItem": "該当なし",
+
+    "PersonalDetails_title": "氏名",
+    "PersonalDetails_status": "編集",
+
+    "GuestForm_firstName": "名",
+    "GuestForm_lastName": "姓",
+    "GuestForm_personal_successMessage": "氏名が変更されました。",
+    "GuestForm_personal_errorMessage":"氏名が必要です。",
+    "GuestForm_email":"メールアドレス",
+    "GuestForm_logindetails_successMessage": "Eメールアドレスが変更されました。",
+    "GuestForm_saveButton": "保存",
+    "GuestForm_whiteButton": "キャンセル",
+    "GuestForm_payment_successMessage": "支払い方法の変更完了",
+    "GuestForm_successMessage": "お支払い方法の変更が完了しました。",
+    
+    
+
+    "Containers_title": "口座"
+}

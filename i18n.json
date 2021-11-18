@@ -1,0 +1,54 @@
+{
+    "locales": [
+        "en-US",
+        "th"
+    ],
+    "defaultLocale": "en-US",
+    "pages": {
+        "*": [
+            "homeLayout",
+            "footer",
+            "search",
+            "customerInvoice",
+            "hostOnBoarding",
+            "hostReservation",
+            "components",
+            "details",
+            "hostListings",
+            "checkout",
+            "error",
+            "common",
+            "quotations",
+            "estimator"
+        ],
+        "/": [
+            "home",
+            "hostListings"
+        ],
+        "/details/[siteId]": [
+            "details",
+            "home"
+        ],
+        "/login": [
+            "login"
+        ],
+        "/profile": [
+            "profile"
+        ],
+        "/host": [
+            "hostLanding"
+        ],
+        "/checkout": [
+            "checkout"
+        ],
+        "/host/account": [
+            "hostAccount"
+        ],
+        "/customer/account": [
+            "hostAccount"
+        ],
+        "/estimator-box": [
+            "estimatorBox"
+        ]
+    }
+}

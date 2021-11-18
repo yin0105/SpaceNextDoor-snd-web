@@ -1,0 +1,97 @@
+{
+    "Dates_title1": "วันที่ย้ายเข้า",
+    "Dates_desc1": "เลือกวันที่ย้ายเข้าของคุณ",
+    "Dates_title2": "วันที่ย้ายออก",
+    "Dates_desc2": "เลือกวันที่ย้ายออกของคุณ",
+    "Dates_caption1": "ย้ายเข้า",
+    "Dates_grey2Typography1": "ยังไม่แน่ใจ",
+    "Dates_caption2": "ย้ายออก",
+    "Dates_grey2Typography2": "มีการเช่าอยู่",
+    "Dates_grey2Typography3": "มีการเช่าต่อเนื่องรายเดือน",
+
+    "EmptyState_typography1": "ไม่พบสถานที่ตรงกับการค้นหาของคุณ",
+    "EmptyState_typography2": "ลองเปลี่ยนคำในการค้นหาของคุณหรือติดต่อเรา เพื่อเปรียบเทียบยูนิตตามราคา ตำแหน่งที่ตั้ง ขนาด และอื่น ๆ",
+    "EmptyState_typography3": "ไม่พบพื้นที่เก็บของตรงกับการค้นหาของคุณ",
+    "EmptyState_typography4": "ไม่ต้องกังวล โปรดกรอกแบบฟอร์มนี้ทางทีมงานของเราจะติดต่อกลับภายใน 24 ชั่วโมง",
+    "EmptyState_primaryButton": "ส่งที่นี่",
+    "EmptyState_clearFilters": "ล้างตัวคัดกรองทั้งหมด",
+    "EmptyState_clearFiltersTypography":"หรือล้างตัวคัดกรองทั้งหมด",
+
+    "Popup_placeholder": "คุณต้องการพื้นที่เก็บของที่ไหน",
+
+    "RecentSearches_title": "การค้นหาล่าสุด",
+
+    "SearchInput_typography": "ที่ตั้ง",
+    "SearchInput_placeholder": "คุณต้องการพื้นที่เก็บของที่ไหน",
+
+    "Search_typography": "ตัวกรอง",
+
+    "AveragePrices_typography1": "ราคาเฉลี่ยในกรุงเทพฯ",
+    "AveragePrices_typogrpahy2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+
+    "TableHead_cell1": "ขนาดยูนิต",
+    "TableHead_cell2": "ราคาเฉลี่ย",
+    "TableHead_cell3": "ราคาต่ำสุด",
+
+    "Filter_sort": "เรียงตามระยะทาง",
+    "Filter_menuItem1": "สิบ",
+    "Filter_menuItem2": "ยี่สิบ",
+    "Filter_menuItem3": "สามสิบ",
+
+    "Actions_typography": "รีเซ็ตตัวกรอง",
+    "Actions_whiteTypography": "ใช้",
+
+    "FeaturesAmenities_typography": "คุณสมบัติและสิ่งอำนวยความสะดวก",
+
+    "Header_typography": "ตัวกรอง",
+
+    "MonthlyPriceRange_typography1": "ราคา",
+    "MonthlyPriceRange_typography2": "ช่วงราคารายเดือน",
+
+    "SizeEstimator_typography1": "คุณต้องการความช่วยเหลือในคำนวณขนาดยูนิตหรือไม่?",
+    "SizeEstimator_typography2": "เครื่องมือคำนวณขนาด",
+
+    "FiltersDesktop_typography": "ตัวกรอง",
+    "FiltersDesktop_button": "ล้างตัวกรองทั้งหมด",
+
+    "SearchHeader_typography1": "ยูนิตเก็บของใน {{countryName}}",
+    "SearchHeader_typography2": "พื้นที่เก็บของใน {{countryName}}",
+    "SearchHeader_grey2Typography": "ค้นหาพื้นที่เก็บของให้เช่าใกล้คุณ",
+
+    "SiteItem_typography1": "แนะนำ",
+    "SiteItem_typography2": "ขายดีที่สุด",
+    "SiteItem_typography3": "ดูทั้งหมด",
+
+    "ViewOnMap_button": "ดูสถานที่บนแผนที่",
+
+    "SearchAutoComplete_placeholder": "ค้นหาจากตำแหน่งสถานีรถไฟ  บริเวณ หรือสถานที่ใกล้เคียง",
+    "SearchAutoComplete_typography3": "ค้นหา",
+    "SearchAutoComplete_typography4": "เลือกเขตพื้นที่",
+
+   "Site_promos":"มี 3 โปรโมชั่นที่สามารถใช้ได้!",
+   "Site_from":"จาก",
+   "Site_month":"เดือน",
+
+   "SitesList_typography":"ตัวเลือกที่ดีสำหรับคุณ:",
+
+   "SearchModule_h1": "ตำแหน่งพื้นที่เก็บของให้เช่าที่ดีที่สุด",
+   "SearchModule_h2": "พื้นที่เก็บของราคาประหยัด ",
+   "SearchModule_in": "ใน ",
+   "SearchModule_title": "มีห้องเก็บของให้เช่า {{totalResults}} แห่งที่ {{countryName}}",
+
+   "Marker_promos": "มี 3 โปรโมชั่นที่สามารถใช้ได้!",
+   "Marker_month": "เดือน",
+   "Marker_from": "จาก",
+
+   "SitesMap_alert": "ไม่สามารถเข้าถึงตำแหน่งปัจจุบันได้",
+
+   "SelectPlaces_allDistricts": "เขตพื้นที่ทั้งหมด",
+   
+   "SelectPlaces_typography1": "โดยเขตพื้นที่",
+   "SelectPlaces_typography3": "หาพื้นที่จัดเก็บ",
+   "SelectPlaces_NavHome":"หน้าหลัก",
+   "SelectPlaces_NavPlaces":"เงื่อนไข",
+   "SelectPlaces_NavSearch":"ผลการค้นหา",
+   "SelectPlaces_clearAllLocations":"ล้างตำแหน่งทั้งหมด"
+
+}

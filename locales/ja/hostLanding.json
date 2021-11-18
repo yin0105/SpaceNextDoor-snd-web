@@ -1,0 +1,37 @@
+{
+
+    "EasyPaymentsHeader_title": "簡単に支払い",
+    "EasyPaymentsHeader_subtitle": "収入はシンプル且つ保証付き",    
+
+    "Items_title1": "収入保障",
+    "Items_text1": "スペースが使用されている限り、お客様からの支払いが無くても収入保障。",
+    "Items_title2": "安全安心",
+    "Items_text2": "ホストはGoogle、Spotify、Target、Amazon、その他多数の企業に信用されている支払いシステムを通してSNDから支払い振り込み。",
+    "Items_title3": "自動振り込み",
+    "Items_text3": "支払い方法の変更。各支払い会社への連絡を取る。",    
+
+    "HelpButton_whiteTypography": "ヘルプ",    
+
+    "HowToHost_typography1": "ホストになるには",
+    "HowToHost_typography2": "最短5分でSNDに登録完了",    
+
+    "Steps_title1": "ステップ 1",
+    "Steps_text1": "施設の規約と高画質の写真をアップする",
+    "Steps_title2": "ステップ 2",
+    "Steps_text2": "施設の紹介文をアップする",
+    "Steps_title3": "ステップ 3",
+    "Steps_text3": "日割料金を設定する",
+    "Steps_title4": "ステップ 4",
+    "Steps_text4": "予約を受ける",
+    "Steps_title5": "ステップ 5",
+    "Steps_text5": "支払いを受け取る",    
+
+    "ListYourSpace_buttonText": "物件リストを表示",    
+
+    "Info_title": "利用されていないスペースで収入を得る",
+    "Info_subtitle": "利用されていないスペースをご近所さんに収納スペースとしてお貸しして簡単収入",    
+
+    "SafetyFirstHeader_title": "安全第一",
+    "SafetyFirstHeader_subtitle": "全てのSNDとの関わりは信頼が基盤です。",
+    "SafetyFirst_passage": "お客様は収納された荷物がホストにより大切にされるという信頼を持ち、ホストはお客様が収納するものに気を使う。我々はそのような信頼に基づいたサービス環境の構築に最善を尽くして参ります。" 
+}

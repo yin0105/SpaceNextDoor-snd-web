@@ -1,0 +1,40 @@
+{
+    "Login_typography1": "เข้าสู่ระบบ",
+    "Login_typography2": "อีเมล",
+    "Login_typography3": "หมายเลขโทรศัพท์",
+
+    "AddPIN_grey2Typography": "คุณไม่ได้รับข้อความใช่หรือไม่",
+    "AddPIN_primaryTypography": "โปรดส่งอีกครั้ง",
+    "AddPIN_box": "ยืนยัน",
+
+    "Info_primaryTypography": "แก้ไข",
+    "Info_grey3Typography": "ใส่รหัส PIN ของคุณ",
+    "Info_descTextP1": "เราเพิ่งส่งรหัส PIN ไปให้คุณ",
+    "Info_type1": "อีเมล",
+    "Info_type2": "หมายเลขโทรศัพท์",
+    "Info_descTextP2": "อาจใช้เวลาประมาณหนึ่งนาที",
+
+    "ByEmail_grey3Typography": "เพิ่มอีเมลของคุณ",
+
+    "AddEmail_error": "เพิ่มอีเมลของคุณ",
+    "AddEmail_termError": "โปรดยอมรับข้อกำหนด",
+    "AddEmail_typography1": "โปรดกรอกอีเมลของคุณ และเราจะส่ง OTP ไปให้เพื่อยืนยัน",
+    "AddEmail_placeholder": "อีเมล",
+    "AddEmail_typography2": "การลงชื่อเข้าใช้แสดงว่าฉันยอมรับ",
+    "AddEmail_link1": "ข้อกำหนดการใช้งาน",
+    "AddEmail_and": "และ",
+    "AddEmail_link2": "นโยบายความเป็นส่วนตัว",
+    "AddEmail_box": "เข้าสู่ระบบ",
+
+    "ByPhone_grey3Typography": "เพิ่มเบอร์โทรศัพท์ของคุณ",
+
+    "AddNumber_error": "กรุณากรอกเบอร์โทรศัพท์ของคุณ",
+    "AddNumber_termError": "โปรดยอมรับเงื่อนไข",
+    "AddNumber_typography1": "โปรดเพิ่มเบอร์โทรศัพท์ของคุณ และเราจะส่ง SMS ไปให้เพื่อยืนยัน",
+    "AddNumber_typography2": "การลงชื่อเข้าใช้แสดงว่าฉันยอมรับข้อกำหนดการใช้งานและนโยบายความเป็นส่วนตัว",
+    "AddNumber_box": "เข้าสู่ระบบ",
+
+    "Footer_typography1": "หรือดำเนินการต่อด้วย",
+    "Footer_typography2": "Google",
+    "Footer_typography3": "Facebook"
+}

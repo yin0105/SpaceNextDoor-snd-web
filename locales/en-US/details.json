@@ -1,0 +1,89 @@
+{
+    "AvailableUnits_title": "Available units",
+    "AvailableUnits_priceButton": "SHOW PRICE",
+    "AvailableUnits_grey2": "Move in date is",
+    "AvailableUnits_changeDate": "Change date",
+
+    "Description_readMore": "Read more",
+    "Description_showLess": "Show less",
+
+    "Size_availability": "You can only book this unit until",
+
+    "SpaceSelector_body1": "Need help estimating the size you need?",
+    "SpaceSelector_h3": "Storage units",
+    "SpaceSelector_body2": "We've filtered units based on your previously selected size. Use the filters below to alter your size selection.",
+
+    "Filters_soldout": "All units are sold out for this category!",
+
+    "SoldOut_error": "You just missed it!",
+    "SoldOut_grey2": "Our last unit sold out on that date",
+
+    "SpaceDetails_title": "You have selected:",
+
+    "BreadCrumbs_search": "Search",
+    "BreadCrumbs_storage": "Storage",
+    "BreadCrumbs_secondTypography": "FEATURED",
+    "BreadCrumbs_whiteTypography": "BEST SELLER",
+
+    "HowItWorks_h2": "How it works",
+
+    "Items_find": "Find",
+    "Items_findDesc": "Browse our list of storage spaces to find a location near you",
+    "Items_book": "Book",
+    "Items_bookDesc": "Message us to learn more then book the space that best fits your needs",
+    "Items_move": "Move",
+    "Items_moveDesc": "Set up a move in time with the Host and start storing",
+
+    "OneItem_grey3Typography": "STEP",
+
+    "Map_typography": "Location",
+
+    "MobileStickyBookWidget_typography1": "Please choose a space to see the price!",
+    "MobileStickyBookWidget_typography2": " Not sure about size, let’s estimate size and get a quote here",
+    "MobileStickyBookWidget_typography3": "Please choose move in date to show the price!",
+    "MobileStickyBookWidget_typography4": "month",
+    "MobileStickyBookWidget_or": "or",
+    "MobileStickyBookWidget_primaryButton1": "BOOK NOW",
+    "MobileStickyBookWidget_primaryButton2": "GET A QUOTE",
+    "MobileStickyBookWidget_unitDetails": "See unit size details",
+
+    "MobilePromotion_typography1": "promotions available!",
+
+    "Rating_typography": "See reviews",
+
+    "Reviews_typography1": "Overall rating",
+    "Reviews_typography2": "reviews",
+    "Reviews_typography3": "Verified by",
+    "Reviews_reviews": "Reviews",
+    "Reviews_googleReviews": "Google Reviews",
+
+    "SimilarStorages_title": "Similar storages",
+
+    "SiteAmenities_title": "Site amenities",
+
+    "StickyBookWidget_typography1": "Please choose a space to see the price!",
+    "StickyBookWidget_typography2": " Not sure about size, let’s estimate size and get a quote here",
+    "StickyBookWidget_typography3": "Please choose move in date to show the price!",
+    "StickyBookWidget_typography4": "Monthly price",
+    "StickyBookWidget_typography5": "Unit size",
+    "StickyBookWidget_or": "or",
+    "StickyBookWidget_primaryButton1": "BOOK NOW",
+    "StickyBookWidget_primaryButton2": "GET A QUOTE",
+    "StickyBookWidget_unitDetails": "Click unit size image to see more details",
+
+    "SpaceTypeDetails_typography1": "Starting at",
+    "SpaceTypeDetails_typography2": "month",
+    "SpaceTypeDetails_ok": "OK",
+    "SpaceTypeDetails_select": "SELECT",
+
+    "Promotion_typography1": "{{count}} promotions available!",
+
+    "Details_title": "There are {{site}} self-storage options",
+
+    "QuotationDialog_typography1": "Your promotion is applied to checkout!",
+    "QuotationDialog_typography2": "Congratulation! You will get 10% extra discount",
+    "QuotationDialog_typography3": "Your promo code will apply to Checkout process.You will get 10% discount for your first month booking.Please Book now to get this price.",
+    "QuotationDialog_primaryButton": "OK",
+    "QuotationAlert_typography1": "We will include 10% Off on checkout process",
+    "QuotationAlert_typography2": "This offer is valid for a limited time only. Book Now and save!"
+}

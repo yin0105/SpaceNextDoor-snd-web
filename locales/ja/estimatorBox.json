@@ -1,0 +1,30 @@
+{
+
+    "Header_typography1": "必要な広さを概算する",
+    "Header_typography2": "以下の項目から条件を選択してください。我々が該当する物件を提案致します。",    
+
+    "StandardBox_typography1": "スタンダードボックス",
+    "StandardBox_typography2": "サイズ中 奥行51cm X 幅41cm X 高さ41cm",
+
+    "CustomBox_typography1": "自分の箱",
+    "CustomBox_typography2": "幅",
+    "CustomBox_typography3": "高さ",
+    "CustomBox_typography4": "奥行",
+
+    "Step1_typography1": "どのような箱が必要ですか？",
+    "Step1_button1": "キャンセル",
+    "Step1_button2": "次に進む",
+
+    "Step2_typography1": "箱は何箱必要ですか？",
+    "Step2_typography2": "必要面積概算するために、箱の数を入力してください。",
+    "Step2_typography3": "箱",
+    "Step2_button1": "戻る",
+    "Step2_button2": "必要面積の概算",    
+
+    "Step3_typography1": "必要",
+    "Step3_typography2": "スタンダードボックス",
+    "Step3_typography3": "自分の箱",
+    "Step3_typography4": "面積ガイド",
+    "Step3_button1": "戻る",
+    "Step3_button2": "トランクルームを探す"
+}

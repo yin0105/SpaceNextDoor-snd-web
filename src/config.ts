@@ -1,0 +1,64 @@
+const FALLBACK_SEARCH_RADIUS = [5, 10, 15];
+const GRAPHQL_API = process.env.NEXT_PUBLIC_REACT_APP_GRAPHQL_API;
+const GOOGLE_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
+const API_BASE_URL = process.env.NEXT_PUBLIC_REACT_APP_API_BASE_URL;
+const FILTER_BY_STOCK = process.env.NEXT_PUBLIC_REACT_APP_FILTER_BY_STOCK;
+const STRIPE_KEY = process.env.NEXT_PUBLIC_STRIPE_KEY;
+const APP_ENV = process.env.NEXT_PUBLIC_APP_ENV;
+const SEARCH_RADIUS_SG = (process.env.NEXT_PUBLIC_REACT_APP_SEARCH_RADIUS_SG)?.split(',').map((r) => Number(r)) || FALLBACK_SEARCH_RADIUS;
+const SEARCH_RADIUS_TH = (process.env.NEXT_PUBLIC_REACT_APP_SEARCH_RADIUS_TH)?.split(',').map((r) => Number(r)) || FALLBACK_SEARCH_RADIUS;
+const SEARCH_RADIUS_JP = (process.env.NEXT_PUBLIC_REACT_APP_SEARCH_RADIUS_JP)?.split(',').map((r) => Number(r)) || FALLBACK_SEARCH_RADIUS;
+const ESTIMATION_FORM_ID = 'c3dUtUpP';
+const ENQUIRY_FORM_ID = 'qPTO5eXD';
+const THAI_ENQUIRY_FORM_ID = 'tq0MPoMk';
+const AFFLIATE_TYPEFORM_ID_EN = 'beFrxLKy';
+const AFFLIATE_TYPEFORM_ID_JP = 'cAXRvD11';
+const RESIZER_URL = 'https://resizer.spacenextdoor.com';
+const PAGINATION_LIMIT = 10;
+const MAP_PAGINATION_LIMIT = 20;
+const GOOGLE_TRACKING_ID = 'GTM-TKFKSJ3';
+const CLEVER_TAP_TEST_ACCOUNT_ID = 'TEST-6Z8-6RR-4K6Z';
+const CLEVER_TAP_PROD_ACCOUNT_ID = '467-Z66-6Z6Z';
+const OAUTH_FACEBOOK_REDIRECT_URL = `${API_BASE_URL}/oauth/facebook`;
+const OAUTH_GOOGLE_REDIRECT_URL = `${API_BASE_URL}/oauth/google`;
+const SENTRY_DNS = 'https://74055724efba42d8888e89311e81d611@o571940.ingest.sentry.io/5728906';
+const DEFAULT_MAP_CENTER = {
+  Singapore: { lat: 1.3552, lng: 103.8772, zoomLevel: 11 },
+  Thailand: { lat: 13.736717, lng: 100.523186, zoomLevel: 11 },
+  Japan: { lat: 35.652832, lng: 139.839478, zoomLevel: 5 },
+};
+const GOGOX_CAPACITY = {
+  van: ['XXS', 'XS'],
+  lorry10: ['XXS', 'XS', 'S'],
+  lorry14: ['XXS', 'XS', 'S', 'M'],
+  lorry24: ['XXS', 'XS', 'S', 'M', 'L', 'XL', 'XXL'],
+};
+
+export {
+  // eslint-disable-next-line import/prefer-default-export
+  GRAPHQL_API,
+  API_BASE_URL,
+  FILTER_BY_STOCK,
+  PAGINATION_LIMIT,
+  MAP_PAGINATION_LIMIT,
+  GOOGLE_API_KEY,
+  STRIPE_KEY,
+  RESIZER_URL,
+  APP_ENV,
+  SEARCH_RADIUS_SG,
+  SEARCH_RADIUS_TH,
+  SEARCH_RADIUS_JP,
+  SENTRY_DNS,
+  ENQUIRY_FORM_ID,
+  THAI_ENQUIRY_FORM_ID,
+  AFFLIATE_TYPEFORM_ID_EN,
+  AFFLIATE_TYPEFORM_ID_JP,
+  ESTIMATION_FORM_ID,
+  GOOGLE_TRACKING_ID,
+  CLEVER_TAP_PROD_ACCOUNT_ID,
+  CLEVER_TAP_TEST_ACCOUNT_ID,
+  OAUTH_FACEBOOK_REDIRECT_URL,
+  OAUTH_GOOGLE_REDIRECT_URL,
+  DEFAULT_MAP_CENTER,
+  GOGOX_CAPACITY,
+};

@@ -1,0 +1,36 @@
+{
+    "Details_itemDetailName1": "Unit Id",
+    "Details_itemDetailName2": "Unit name",
+    "Details_itemDetailName3": "Unit width x depth x height",
+    "Details_itemDetailName4": "Unit size",
+    "Details_itemDetailName5": "Total units",
+    "Details_itemDetailName6": "Unit monthly price",
+    "Details_itemDetailName7": "Unit feature",
+    
+    "EmptyListing_typography1": "Create Your First Listing",
+    "EmptyListing_typography2": "List your space and connect with Guests who are looking for spaces to rent and earn your money.",
+    "EmptyListing_button": "List a Space",
+    
+    "ItemDetail_value": "Review",
+    
+    "Listing_headingTitle": "Hosting",
+    "Listing_headingSubtitle": "Your Listings",
+    "Listing_listItemTitle": "Name no set",
+    
+    "ListItem_menuItem": "Edit",
+    
+    "ListTable_typography": "No spaces found",
+    "ListTable_tableCell3": "Size Unit",
+    "ListTable_tableCell5": "No features!",
+
+    "ListingDetails_itemsTitle1": "Your Listings",
+    "ListingDetails_itemsTitle2": "Listing Details",
+    "ListingDetails_headingTitle": "Listing",
+    "ListingDetails_headingSubtitle": "Listing Details",
+    "ListingDetails_cancel": "Cancel",
+    "ListingDetails_edit": "Edit",
+    
+    "SearchListings_placeholder": "Search for lists...",
+
+    "ComponentsHeader_button": "Create a list"
+}

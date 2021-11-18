@@ -1,0 +1,24 @@
+{
+    "HamburgerMenu_grey3Typography": "สวัสดี",
+    "HamburgerMenu_typography": "คุณแน่ใจว่าต้องการออกจากระบบใช่หรือไม่?",
+    "HamburgerMenu_no": "ไม่",
+    "HamburgerMenu_yes": "ใช่",
+
+    "Login_h2": "เข้าสู่ระบบ",
+    "Login_grey2Typography": "กรุณาเข้าสู่ระบบ เพื่อจัดการและดูรายละเอียดเพิ่มเติม",
+    "Login_primaryButton": "เข้าสู่ระบบ",
+
+    "MenuList_guest1Name": "การจองล่วงหน้า",
+    "MenuList_guest2Name": "บัญชีผู้ใช้",
+    "MenuList_guest3Name": "เปลี่ยนเป็นผู้ให้เช่า",
+    "MenuList_common1Name": "ภาษา",
+    "MenuList_common2Name": "ประเทศ",
+    "MenuList_common3Name": "ติดต่อเรา",
+    "MenuList_common4Name": "ศูนย์ช่วยเหลือ",
+    "MenuList_common5Name": "บล็อก",
+    "MenuList_common6Name": "ออกจากระบบ",
+    "MenuList_host1Name": "รายการของฉัน",
+    "MenuList_host2Name": "การจอง",
+    "MenuList_host3Name": "บัญชีผู้ใช้",
+    "MenuList_host4Name": "เปลี่ยนเป็นผู้เยี่ยมชม"
+}

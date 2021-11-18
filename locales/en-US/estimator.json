@@ -1,0 +1,56 @@
+{
+    "Categories_listItem1": "Bedroom",
+    "Categories_listItem2": "Living room",
+    "Categories_listItem3": "Kitchen",
+    "Categories_listItem4": "Appliances",
+    "Categories_listItem5": "Outdoor",
+    "Categories_listItem6": "Sports",
+    "Categories_listItem7": "Miscellaneous",
+    "Categories_listItem8": "Office",
+    
+    "FindStorage_typography1": "From",
+    "FindStorage_typography2": "month",
+    "FindStorage_typography3": "Find storage",
+    
+    "Header_typography1": "Estimate the size you need",
+    "Header_typography2": "Choose the items that you plan to put in storage",
+    "Header_typography3": "to get as size estimate",
+    
+    "AddCustom_placeholder": "Add custom item",
+    
+    "AddCustomForm_typography1": "Add custom item",
+    "AddCustomForm_typography2": "Width",
+    "AddCustomForm_placeholder": "Item name",
+    "AddCustomForm_typography3": "Height",
+    "AddCustomForm_typography4": "Depth",
+    "AddCustomForm_inputLabel": "This item is stackable",
+    "AddCustomForm_secondaryButton": "Add item",
+    "AddCustomForm_required": "required",
+    
+    "List_typography1": "List of items",
+    "List_link": "Clear all",
+    "List_typography2": "Est. Space needed",
+    "List_typography3": "27 sq.ft.",
+    
+    "RecommendedStorage_typography1": "Recommended Plan",
+    "RecommendedStorage_typography2": "Storage Room",
+    "RecommendedStorage_typography3": "sq ft",
+    "RecommendedStorage_box": "Manage your own items, 24/7 self access at your convenience.",
+    
+    "SearchInput_placeholder": "Search item",
+    
+    "Items_list1": "Bed Frame - King",
+    "Items_list2": "Bed Frame - Queen",
+    "Items_list3": "Bed Frame - Single",
+    "Items_list4": "Bedside Table",
+    "Items_list5": "Bunk bed",
+    "Items_list6": "Chest of Drawers - 2 Drawers",
+    "Items_list7": "Chest of Drawers - 3 Drawers",
+    "Items_list8": "Chest of Drawers - 6 Drawers",
+    "Items_list9": "Dressing Table",
+    "Items_list10": "Mattress - King",
+    "Items_list11": "Mattress - Queen",
+    "Items_list12": "Mattress - Single",
+    "Items_list13": "Mirror - Full Length",
+    "Items_list14": "Wardrobe"
+}

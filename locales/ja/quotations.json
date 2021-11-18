@@ -1,0 +1,45 @@
+{
+    "GetAQuote_typography1": "ご希望のエリアの他にも似た最適な物件が見つかりました。弊社スタッフからのサポートをご要望の場合、次のリンクをクリックしてください。直ちに折り返しご連絡いたします。",
+    "GetAQuote_typography2": "見積もりを依頼",
+
+    "FormLocation_typography1": "{{location}}以外の選択地域はございますか?",
+    "FormLocation_typography2": "要望する条件を満たす物件が見つからない場合は、その他の選択肢を送り致します。",
+    "FormLocation_error": "該当する物件が見つかりませんでした。他の地域をお選びください。",
+
+    "SelectLocation_typography1": "地域別",
+    "SelectLocation_allDistricts": "全ての地域",
+
+    "Footer_textButton": "戻る",
+    "Footer_primaryButton": "次へ",
+    "Footer_getQuote": "見積もりを依頼する",
+    "Footer_estimate": "大きさ概算",
+
+    "FormMoveInDate_typography1": "いつ搬入しますか？",
+    "FormMoveInDate_typography2": "空室状況を確認するために利用開始日を入力してください。",
+
+    "FormPersonalInfo_typography1": "見積もり保存のためにあなたの情報を入力してください。",
+    "FormPersonalInfo_typography2": "お得な価格を確保して見積もりをEメールで送り致します. 搬出の時もお便利な引っ越しサービスも提供しています。",
+    "FormPersonalInfo_typography3": "あなたの情報",
+    "FormPersonalInfo_label1": "氏名",
+    "FormPersonalInfo_label2": "Eメールアドレス",
+    "FormPersonalInfo_label2Email": "Eメールアドレス",
+    "FormPersonalInfo_label3": "電話番号",
+
+    "Estimate_typography1": "引越しのお荷物はいくつありますか?",
+    "Estimate_typography2": "必要面積概算の為に、収納予定のものをお選びください。",
+
+    "SpaceType_typography1": "お薦め",
+    "SpaceType_typography2": "どんなものがこの部屋に収まるか",
+    "SpaceType_typography3": "搬入日",
+    "SpaceType_typography4": "月",
+
+    "FormSpaceType_typography1": "どれくらいの広さが必要？",
+    "FormSpaceType_typography2": "必要面積の概算をお手伝いしましょうか？",
+    "FormSpaceType_typography3": "はい、概算をお願いします！",
+    "FormSpaceType_text": "概算された必要面積の部屋はこの施設にはありません。その代わりにこちらのスペースをお薦め致します。",
+    "FormSpaceType_subText": "この広さのトランクルームを他にも探す",
+
+    "Thanks_typography1": "お問い合わせありがとうございます!!",
+    "Thanks_typography2": "見積もりをメールで送り致します。しばらくお待ちください。",
+    "Thanks_typography3": "ホームページに戻る"
+}

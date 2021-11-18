@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="navigation/home">
+<path id="Transparent BG" d="M0.005 0.005H23.995V23.995H0.005V0.005Z" stroke="white" stroke-opacity="0.01" stroke-width="0.01"/>
+<path id="Path 14" fill-rule="evenodd" clip-rule="evenodd" d="M12 5.41886L19 12.4649V21H21V11.6403L12 2.58112L3 11.6403V21H5V12.4649L12 5.41886Z" fill="#989898"/>
+<g id="editor/bulleted">
+<path id="Transparent BG_2" d="M7.005 12.005H16.995V21.995H7.005V12.005Z" stroke="white" stroke-opacity="0.01" stroke-width="0.01"/>
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M11 16V13H13V16H16V18H13V21H11V18H8V16H11Z" fill="#989898"/>
+</g>
+</g>
+</svg>

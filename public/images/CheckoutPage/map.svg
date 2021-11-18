@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="maps/map">
+<path id="Transparent BG" d="M0.005 0.005H23.995V23.995H0.005V0.005Z" stroke="white" stroke-opacity="0.01" stroke-width="0.01"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M21 2.61255V18.7207L13.9233 21.0796L9.92327 19.0796L3 21.3874V5.27922L10.0767 2.92031L14.0767 4.92031L21 2.61255ZM9.92327 5.07964L5 6.72073V18.6125L10.0767 16.9203L14.0767 18.9203L19 17.2792V5.3874L13.9233 7.07964L9.92327 5.07964ZM16 7.39997V17.4L14 18V8.09997L16 7.39997ZM10 5.99997V16L8 16.6V6.69997L10 5.99997Z" fill="#989898"/>
+</g>
+</svg>

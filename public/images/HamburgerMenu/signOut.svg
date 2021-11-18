@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="action/checkout">
+<path id="Transparent BG" d="M0.005 0.005H23.995V23.995H0.005V0.005Z" stroke="white" stroke-opacity="0.01" stroke-width="0.01"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M16 2V4H5V20H16V22H5.00276C3.94396 22 3.08168 21.1879 3.00547 20.1578L3 20.0092V3.9908C3 2.94788 3.817 2.08206 4.85329 2.0055L5.00276 2H16ZM16 6.087L21.92 12.0071L16 17.927V15.057L18.0296 13H9V11H18.0156L16 8.958V6.087Z" fill="#989898"/>
+</g>
+</svg>

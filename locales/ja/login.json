@@ -1,0 +1,41 @@
+{
+
+    "Login_typography1": "ログイン",
+    "Login_typography2": "メール",
+    "Login_typography3": "電話番号",   
+
+    "AddPIN_grey2Typography": "メッセージが届いていない場合は、",
+    "AddPIN_primaryTypography": "再度送信してください。",
+    "AddPIN_box": "確認",   
+
+    "Info_primaryTypography": "編集",
+    "Info_grey3Typography": "PINを入力してください",
+    "Info_descTextP1": "PINを送信しました。",
+    "Info_type1": "メール",
+    "Info_type2": "電話番号",
+    "Info_descTextP2": "1分程お待ちください。",   
+
+    "ByEmail_grey3Typography": "メールアドレスを加える",   
+
+    "AddEmail_error": "メールアドレスを加える",
+    "AddEmail_termError": "規約に同意してください。",
+    "AddEmail_typography1": "あなたのメールアドレスを入力してください。確認メッセージを送信いたします。",
+    "AddEmail_placeholder": "メール",
+    "AddEmail_typography2": "サインインすることにより＿＿に同意します。",
+    "AddEmail_link1": "利用規約",
+    "AddEmail_and": "及び",
+    "AddEmail_link2": "個人情報保護に関して",
+    "AddEmail_box": "ログイン",   
+
+    "ByPhone_grey3Typography": "携帯電話番号を登録",   
+
+    "AddNumber_error": "電話番号を入力してください。",
+    "AddNumber_termError": "規約に同意してください。",
+    "AddNumber_typography1": "携帯電話番号を登録してください。確認メッセージ送信します。",
+    "AddNumber_typography2": "サインインすることにより＿＿に同意します。",
+    "AddNumber_box": "ログイン",   
+
+    "Footer_typography1": "または＿＿＿で続ける",
+    "Footer_typography2": "Google",
+    "Footer_typography3": "Facebook"
+}

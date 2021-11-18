@@ -1,0 +1,84 @@
+{
+
+  "FeaturedListings_h2": "特集物件",
+  "FeaturedListings_tag1": "特集物件",
+  "FeaturedListings_tag2": "人気物件",
+  "FeaturedListings_typography1": "＿＿から",
+  "FeaturedListings_typography2": "月",
+
+  "HostASpace_button": "スペースを提供する",
+  "HostASpace_desc": "お持ちの空きスペースで副収入。集客集金はは我々に任せてください。ご希望の条件を決められます。",
+  "HostASpace_header": "使用されていない空きスペースはございませんか？ホストになりませんか？",
+
+  "WouldYouClean_whiteTypography1": "Would you clean out your",
+  "WouldYouClean_secondaryTypography": "Would you clean out your",
+  "WouldYouClean_menuItem1": "None",
+  "WouldYouClean_menuItem2": "Ten",
+  "WouldYouClean_menuItem3": "Twenty",
+  "WouldYouClean_menuItem4": "irty",
+  "WouldYouClean_whiteTypography2": "a year?",
+
+  "HowItWorks_h2": "ご利用の手順",
+
+  "Items_find": "探す",
+  "Items_findDesc": "トランクルームスペース一覧を閲覧して最寄りロケーションを探す",
+  "Items_book": "予約",
+  "Items_bookDesc": "適切なスペース検索の為に、メッセージにてお問い合わせください。",
+  "Items_move": "搬入",
+  "Items_moveDesc": "搬入日をオーナーと相談して収納を開始する。",
+
+  "ReviewsHeader_h2": "口コミ",
+
+  "ReviewCards_name1": "アイヴァン リム",
+  "ReviewCards_live1": "シンガポール",
+  "ReviewCards_desc1": "先日行った予約の更新はとても便利で、プロセスもスムーズで良かったです。次回の契約更新も時も是非お願いします。",
+  "ReviewCards_name2": "アニサ コウ",
+  "ReviewCards_live2": "シンガポール",
+  "ReviewCards_desc2": "サービススタッフが素晴らしく、じっくり対応してもらいました。すべての質問に答えてくれた上に、効率よくお金をセーブするために色々な収納の選択肢を提案してくれました。ありがとう。",
+  "ReviewCards_name3": "シェリル チェン",
+  "ReviewCards_live3": "シンガポール",
+  "ReviewCards_desc3": "素晴らしいスペース ネクスト ドアのサービスにとても満足してます。引越しが面倒なことなくスムーズに済みました。収納エリアは広々として、清潔で空調もよくされた環境でした。期待以上の体験をありがとう。",
+  "ReviewCards_name4": "ヌア ラキーザ",
+  "ReviewCards_live4": "シンガポール",
+  "ReviewCards_desc4": "とても素晴らしいサービス！予約前の収納ユニットの見学も、登録や管理も超簡単！ 競争力のある価格設定や日割り計算された料金なども。収納も24時間いつでも簡単に。収納スペースを探している人には是非お勧めします。",
+
+  "OneCardBody_span": "その他を見る...",
+
+  "Statistic_typography1": "確認",
+  "Statistic_typography2": "全てを見る",
+
+  "SearchHeaderTitle_titleTypographyLine1": "あなたに最適な物件を",
+  "SearchHeaderTitle_titleTypographyLine2": "お探し致します。",
+  "SearchHeaderTitle_titleTypographyLine3": "",
+  "SearchHeaderTitle_subtitleTypography": "余裕のある生活がここから始まる。",
+
+  "SquareGuides_span": "ヘルプ",
+  "SquareGuides_typography": "サポート致します。",
+  "SquareGuides_typography2": "何のために収納スペースが必要ですか？",
+
+  "Rectangle_itemName1": "家の改装工事",
+  "Rectangle_itemName2": "整理整頓",
+  "Rectangle_itemName3": "ビジネスの在庫管理",
+  "Rectangle_itemName4": "その他の目的",
+
+  "Body_title1": "最安値",
+  "Body_desc1": "あなたの街の最適格安トランクルームを検索します。",
+  "Body_title2": "オンライン予約",
+  "Body_desc2": "予約とその後の管理すべて簡単にオンラインで。",
+  "Body_title3": "支払い",
+  "Body_desc3": "予約してカードでオンライン払い。安全かつ早い。",
+  "Body_title4": "保険",
+  "Body_desc4": "最適な保険で安心。",
+  "Body_title5": "流通",
+  "Body_desc5": "オンデマンド集荷サービスやキャンセルを携帯から。いつでもどこでも予約可能。",
+  "Body_title6": "IoT",
+  "Body_desc6": "IoT機能、警備システム等、即更新。",
+
+  "WhatMakesUsDiffHeader_typography": "我々の特徴",
+
+  "Home_title": "スペース ネクスト ドア - 最もお手頃な価格のトランクルームはこちらから",
+  "Home_metaTitle": "Space Next Door - 信頼とお手頃価格のトランクルームです",
+  "Home_description": "Space Next Doorは、トランクルームのマーケットプレイスです。お客様が自分の荷物を安全に保管するための最適なオプションを見つけるお手伝いをします。",
+  "Home_navHome": "หน้าหลัก"
+
+}

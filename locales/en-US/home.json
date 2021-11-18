@@ -1,0 +1,82 @@
+{
+  "FeaturedListings_h2": "Featured Listings in {{country}}",
+  "FeaturedListings_tag1": "Featured",
+  "FeaturedListings_tag2": "Best Seller",
+  "FeaturedListings_typography1": "From",
+  "FeaturedListings_typography2": "Month",
+ 
+  "HostASpace_button": "HOST A SPACE",
+  "HostASpace_desc": "Earn additional income from your empty spaces. We collect the rental on your behalf. Choose your own timeline, prices, and requirements for guests. We’re there to help along the way.",
+  "HostASpace_header": "Do you have extra space? Become a host",
+ 
+  "WouldYouClean_whiteTypography1": "Would you clean out your",
+  "WouldYouClean_secondaryTypography": "Would you clean out your",
+  "WouldYouClean_menuItem1": "None",
+  "WouldYouClean_menuItem2": "Ten",
+  "WouldYouClean_menuItem3": "Twenty",
+  "WouldYouClean_menuItem4": "irty",
+  "WouldYouClean_whiteTypography2": "a year?",
+ 
+  "HowItWorks_h2": "How it works",
+ 
+  "Items_find": "Find",
+  "Items_findDesc": "Browse our list of storage spaces to find a location near you",
+  "Items_book": "Book",
+  "Items_bookDesc": "Message us to learn more then book the space that best fits your needs",
+  "Items_move": "Move",
+  "Items_moveDesc": "Set up a move in time with the Host and start storing",
+ 
+  "ReviewsHeader_h2": "Testimonials",
+ 
+  "ReviewCards_name1": "Ivan Lim",
+  "ReviewCards_live1": "SINGAPORE",
+  "ReviewCards_desc1": "was pleased to renew my booking recently as it was also very convenient to get the procedure done smoothly. I look forward to continue the booking when it expires.",
+  "ReviewCards_name2": "Annisa Koh",
+  "ReviewCards_live2": "SINGAPORE",
+  "ReviewCards_desc2": "The serving staff is great, very patient, helped to answer all queries and offered various storage options to save money and maximize my money spent. Thanks.",
+  "ReviewCards_name3": "Cheryl Cheng",
+  "ReviewCards_live3": "SINGAPORE",
+  "ReviewCards_desc3": "We are very pleased with the excellent service provided by Space Next Door, making the move a smooth and hassle free one.The storage area is big and spacious. We're happy with the clean and well-ventilated environment.Thank you for making the experience better than expected.",
+  "ReviewCards_name4": "Nur Rakeezah",
+  "ReviewCards_live4": "SINGAPORE",
+  "ReviewCards_desc4": "Extremely good service! Easy to view the storage unit before booking and setting up the account and maintaining it was a breeze! Great competitive pricing as well as pro-rated fees. Easy to store with 24/7 access. Will recommend to those looking for storage.",
+ 
+  "OneCardBody_span": "See more...",
+ 
+  "Statistic_typography1": "reviews",
+  "Statistic_typography2": "See all",
+ 
+  "SearchHeaderTitle_titleTypographyLine1": "We help you to find",
+  "SearchHeaderTitle_titleTypographyLine2": "the best storage",
+  "SearchHeaderTitle_titleTypographyLine3": "in {{country}}",
+  "SearchHeaderTitle_subtitleTypography": "Getting more space in your life starts here.",
+ 
+  "SquareGuides_span": "Need help",
+  "SquareGuides_typography": "Let us guide you",
+  "SquareGuides_typography2": "What do you need for the space?",
+  
+  "Rectangle_itemName1": "Home Renovations",
+  "Rectangle_itemName2": "Decluttering",
+  "Rectangle_itemName3": "Business Inventory",
+  "Rectangle_itemName4": "Other Purposes",
+ 
+  "Body_title1": "Best Price",
+  "Body_desc1": "We aggregate the best storage providers in your city and help you find the best price.",
+  "Body_title2": "Online Booking",
+  "Body_desc2": "Complete your booking and manage it fully online with no hassle.",
+  "Body_title3": "Payments",
+  "Body_desc3": "Book and pay online with your credit or debit card. Secured and instant.",
+  "Body_title4": "Insurance",
+  "Body_desc4": "Get the best insurance along with your storage space and enjoy peace of mind.",
+  "Body_title5": "Logistics",
+  "Body_desc5": "On-demand pick up and removal services from the palm of your hand. Book anytime, anywhere.",
+  "Body_title6": "IoT",
+  "Body_desc6": "We will soon integrate the best IoT features. CCTV monitoring, smart access controls and much more.",
+ 
+  "WhatMakesUsDiffHeader_typography": "What makes us different",
+
+  "Home_title": "Space Next Door - Best affordable self-storage in Singapore",
+  "Home_metaTitle": "Space Next Door - Trustable and affordable self-storage in Singapore",
+  "Home_description": "Space Next Door is a marketplace for self-storage. We help customer to find the best options to store their belongings in a safe manner.",
+  "Home_navHome": "Home"
+}

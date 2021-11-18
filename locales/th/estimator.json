@@ -1,0 +1,56 @@
+{
+    "Categories_listItem1": "ห้องนอน",
+    "Categories_listItem2": "ห้องนั่งเล่น",
+    "Categories_listItem3": "ห้องครัว",
+    "Categories_listItem4": "เครื่องใช้ไฟฟ้า",
+    "Categories_listItem5": "กลางแจ้ง",
+    "Categories_listItem6": "กีฬา",
+    "Categories_listItem7": "เบ็ดเตล็ด",
+    "Categories_listItem8": "สำนักงาน",
+
+    "FindStorage_typography1": "เริ่มต้น",
+    "FindStorage_typography2": "เดือน",
+    "FindStorage_typography3": "หาพื้นที่จัดเก็บสิ่งของ",
+
+    "Header_typography1": "ประเมินขนาดพื้นที่ที่คุณต้องการ",
+    "Header_typography2": "ประเมินขนาดพื้นที่ที่คุณต้องการ",
+    "Header_typography3": "เพื่อให้ได้ขนาดโดยประมาณ",
+
+    "AddCustom_placeholder": "เพิ่มรายการแบบกำหนดเอง",
+
+    "AddCustomForm_typography1": "เพิ่มรายการแบบกำหนดเอง",
+    "AddCustomForm_typography2": "ความกว้าง",
+    "AddCustomForm_placeholder": "ความกว้าง",
+    "AddCustomForm_typography3": "ความสูง",
+    "AddCustomForm_typography4": "ความลึก",
+    "AddCustomForm_inputLabel": "รายการนี้สามารถวางซ้อนกันได้",
+    "AddCustomForm_secondaryButton": "เพิ่มรายการ",
+    "AddCustomForm_required": "จำเป็น",
+
+    "List_typography1": "รายชื่อรายการ",
+    "List_link": "ลบทั้งหมด",
+    "List_typography2": "ประมาณการความต้องการพื้นที่",
+    "List_typography3": "27 ตารางฟุต",
+
+    "RecommendedStorage_typography1": "แผนแนะนำ",
+    "RecommendedStorage_typography2": "ห้องเก็บสิ่งของ",
+    "RecommendedStorage_typography3": "ตารางฟุต",
+    "RecommendedStorage_box": "จัดการรายการของคุณเอง เข้าถึงได้ด้วยตนเองตลอด 24 ชั่วโมง ทุกวัน เมื่อใดก็ได้ตามต้องการ",
+
+    "SearchInput_placeholder": "ค้นหารายการ",
+
+    "Items_list1": "โครงเตียง - คิงไซส์",
+    "Items_list2": "โครงเตียง - ควีนไซส์",
+    "Items_list3": "โครงเตียง - เตียงเดี่ยว",
+    "Items_list4": "โต๊ะข้างเตียง",
+    "Items_list5": "เตียงสองชั้น",
+    "Items_list6": "ตู้ลิ้นชัก - 2 ลิ้นชัก",
+    "Items_list7": "ตู้ลิ้นชัก - 3 ลิ้นชัก",
+    "Items_list8": "ตู้ลิ้นชัก - 6 ลิ้นชัก",
+    "Items_list9": "โต๊ะเครื่องแป้ง",
+    "Items_list10": "ที่นอน - คิงไซส์",
+    "Items_list11": "ที่นอน - ควีนไซส์",
+    "Items_list12": "ที่นอน - เดี่ยว",
+    "Items_list13": "กระจกเงา - ยาวเต็มตัว",
+    "Items_list14": "ตู้เสื้อผ้า"
+}

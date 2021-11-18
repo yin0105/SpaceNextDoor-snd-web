@@ -1,0 +1,7 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="action/calendar">
+<path id="Transparent BG" d="M0.005 0.005H23.995V23.995H0.005V0.005Z" stroke="white" stroke-opacity="0.01" stroke-width="0.01"/>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M20 20H4V6H6L8 8V4H9V6H16L18 8V4H19V6H20V20ZM8 4V1H6V4H2V20C2 21.1046 2.89543 22 4 22H20C21.1046 22 22 21.1046 22 20V4H18V1H16V4H8Z" fill="#989898"/>
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M15.293 10L16.7072 11.4142L11.0001 17.1213L7.29297 13.4142L8.70718 12L11.0001 14.2929L15.293 10Z" fill="#979797"/>
+</g>
+</svg>
